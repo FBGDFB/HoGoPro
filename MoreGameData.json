@@ -1,0 +1,40 @@
+{
+    "Data": [
+        {
+            "Name": "sara",
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Swap/1.jpg",
+            "GameUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Swap/1.jpg",
+             "Stars": 3
+        },
+        {
+            "Name": "ggg",
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Swap/2.jpg",
+            "GameUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Swap/2.jpg",
+            "Stars": 5
+        },
+        {
+            "Name": "ggg",
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Swap/3.jpg",
+            "GameUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Swap/3.jpg",
+            "Stars": 4
+        },
+        {
+            "Name": "setertara",
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Swap/4.jpg",
+            "GameUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Swap/4.jpg",
+            "Stars": 3
+        },
+        {
+            "Name": "rt",
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Swap/5.jpg",
+            "GameUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Swap/5.jpg",
+            "Stars": 2
+        },
+        {
+            "Name": "rth",
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Swap/maxresde.jpg",
+            "GameUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Swap/maxresde.jpg",
+            "Stars": 5
+        }
+    ]
+}

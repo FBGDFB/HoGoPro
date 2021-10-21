@@ -1,0 +1,11 @@
+{
+    "UpdateURL": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/UpgradeData.json",
+    "AdsManagerURL": "",
+    "CatigoryDataURL": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/CatigoryData.json",
+    "MoreGameURL": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/MoreGameData.json",
+    "OneSignalPushId": "",
+    "MoreURL": "",
+    "feedbackEmail": "[Your feedback mail]",
+    "link": "[Your application store link]",
+    "privacyURL": ""
+}
