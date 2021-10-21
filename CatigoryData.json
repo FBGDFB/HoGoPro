@@ -6,7 +6,8 @@
             "Icon": {
                 "instanceID": 0
             },
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Action.png"
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/GamesData.json",
+            "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Action.png"
         },
         {
             "Titel": "Adventure",
@@ -14,7 +15,8 @@
             "Icon": {
                 "instanceID": 0
             },
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Adventure.png"
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Adventure.png",
+             "GamesDataUrl": ""
         },
         {
             "Titel": "Arcade",
@@ -22,7 +24,8 @@
             "Icon": {
                 "instanceID": 0
             },
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Arcade.png"
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Arcade.png",
+             "GamesDataUrl": ""
         },
         {
             "Titel": "Board",
@@ -30,7 +33,8 @@
             "Icon": {
                 "instanceID": 0
             },
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Board.png"
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Board.png",
+             "GamesDataUrl": ""
         },
         {
             "Titel": "Card",
@@ -38,7 +42,8 @@
             "Icon": {
                 "instanceID": 0
             },
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Card.png"
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Card.png",
+             "GamesDataUrl": ""
         },
         {
             "Titel": "Casino",
@@ -46,7 +51,8 @@
             "Icon": {
                 "instanceID": 0
             },
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Casino.png"
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Casino.png",
+             "GamesDataUrl": ""
         },
         {
             "Titel": "Casual",
@@ -54,7 +60,8 @@
             "Icon": {
                 "instanceID": 0
             },
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Casual.png"
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Casual.png",
+             "GamesDataUrl": ""
         },
         {
             "Titel": "Educational",
@@ -62,7 +69,8 @@
             "Icon": {
                 "instanceID": 0
             },
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Educational.png"
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Educational.png",
+             "GamesDataUrl": ""
         },
         {
             "Titel": "Family",
@@ -70,7 +78,8 @@
             "Icon": {
                 "instanceID": 0
             },
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Family.jpg"
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Family.jpg",
+             "GamesDataUrl": ""
         },
         {
             "Titel": "Music",
@@ -78,7 +87,8 @@
             "Icon": {
                 "instanceID": 0
             },
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Music.png"
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Music.png",
+             "GamesDataUrl": ""
         },
         {
             "Titel": "Puzzle",
@@ -86,7 +96,8 @@
             "Icon": {
                 "instanceID": 0
             },
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Puzzle.png"
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Puzzle.png",
+             "GamesDataUrl": ""
         },
         {
             "Titel": "Racing",
@@ -94,7 +105,8 @@
             "Icon": {
                 "instanceID": 0
             },
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Racing.png"
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Racing.png",
+             "GamesDataUrl": ""
         },
         {
             "Titel": "Role Playing",
@@ -102,7 +114,8 @@
             "Icon": {
                 "instanceID": 0
             },
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Role%20Playing.png"
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Role%20Playing.png",
+             "GamesDataUrl": ""
         },
         {
             "Titel": "Simulation",
@@ -110,7 +123,8 @@
             "Icon": {
                 "instanceID": 0
             },
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Simulation.png"
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Simulation.png",
+             "GamesDataUrl": ""
         },
         {
             "Titel": "Sports",
@@ -118,7 +132,8 @@
             "Icon": {
                 "instanceID": 0
             },
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Sports.png"
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Sports.png",
+             "GamesDataUrl": ""
         },
         {
             "Titel": "Strategy",
@@ -126,7 +141,8 @@
             "Icon": {
                 "instanceID": 0
             },
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Strategy.png"
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Strategy.png",
+             "GamesDataUrl": ""
         },
         {
             "Titel": "Trivia",
@@ -134,7 +150,8 @@
             "Icon": {
                 "instanceID": 0
             },
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Titel.jpg"
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Titel.jpg",
+             "GamesDataUrl": ""
         },
         {
             "Titel": "Word",
@@ -142,7 +159,8 @@
             "Icon": {
                 "instanceID": 0
             },
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Word.png"
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Word.png",
+             "GamesDataUrl": ""
         },
         {
             "Titel": "Love",
@@ -150,7 +168,8 @@
             "Icon": {
                 "instanceID": 0
             },
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Love.png"
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Love.png",
+             "GamesDataUrl": ""
         }
     ]
 }
