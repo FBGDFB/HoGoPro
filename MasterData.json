@@ -1,8 +1,8 @@
 {
-    "UpdateURL": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/UpgradeData.json",
+    "UpdateURL": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/UpgradeData.json",
     "AdsManagerURL": "",
-    "CatigoryDataURL": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/CatigoryData.json",
-    "MoreGameURL": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/MoreGameData.json",
+    "CatigoryDataURL": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/CatigoryData.json",
+    "MoreGameURL": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/MoreGameData.json",
     "OneSignalPushId": "",
     "MoreURL": "",
     "feedbackEmail": "[Your feedback mail]",
