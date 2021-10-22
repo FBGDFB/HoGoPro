@@ -1,15 +1,15 @@
 {
     "Data": [
         {
-            "Name": "PIXEL BUBBLEMAN.IO",
-            "GameUrl": "https://html5.gamedistribution.com/6cc41fb93d964a6bb922eb8cd39f0227/",
-            "GameIconUrl": "",
+            "Name": "Pawn Shop Master",
+            "GameUrl": "https://html5.gamemonetize.com/ea8c2f9qo4xmo6lx14cth28ofx78w106/",
+            "GameIconUrl": "https://img.gamemonetize.com/ea8c2f9qo4xmo6lx14cth28ofx78w106/512x512.jpg",
             "Icon": {
                 "instanceID": 0
             },
-            "Stars": 0,
+            "Stars": 4,
             "IsBEST": true,
-            "IsNew": false
+            "IsNew": true
         },
         {
             "Name": "SQUIDLY GAME 123 STOP ",
