@@ -20,5 +20,16 @@
             "Stars": 3,
             "IsBEST": false
         }
+        ,
+        {
+            "Name": "CHICKEN DEFENSE",
+            "GameUrl": "https://html5.gamedistribution.com/bec78e2bc19243a6bb7e0939b9154e12/",
+            "GameIconUrl": "https://img.gamedistribution.com/bec78e2bc19243a6bb7e0939b9154e12-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true
+        }
     ]
 }
