@@ -1,0 +1,79 @@
+{
+    "Version": "1.0.0",
+    "DayTime": 0,
+    "toolbarInt": 0,
+    "EnableADSOnServer": true,
+    "UseAdsIn_Github": true,
+    "UseAdsIn_files_fm": false,
+    "UseAdsIn_Mediafire": false,
+    "UseAdsIn_jumpshare": false,
+    "UseAdsIn_Firebase": false,
+    "UseAdsIn_MySQl": false,
+    "UseAdsIn_Googledrive": false,
+    "EditorFirebaseFileUrl": "",
+    "EditorGithubFileUrl": "",
+    "EditorJumpShareFileUrl": "",
+    "EditorMediafireFileUrl": "",
+    "Editorfiles_fmFileUrl": "",
+    "Editorfiles_MySQLUrl": "",
+    "EditorGoogledriveFileUrl": "",
+    "EasyAdColony": {
+        "UseEasyAdColony": false,
+        "AppId": "",
+        "BannerZoneId": "",
+        "InterstitialZoneId": "",
+        "RewardedZoneId": ""
+    },
+    "EasyAdmob": {
+        "UseEasyAdmob": true,
+        "AdmobAppId": "ca-app-pub-3940256099942544~3347511713",
+        "RewardedVideoId": "ca-app-pub-9062368309004930/9129972953",
+        "InterstitialId": "ca-app-pub-9062368309004930/1619998659",
+        "BannerId": "ca-app-pub-9062368309004930/1461228312"
+    },
+    "EasyAppLovin": {
+        "UseEasyAppLovin": true,
+        "AppId": "-XWxT5Gxq1S0H_f3LV_LbJfpNCO4Gmo8ML2iLePyla1kKmRlbksSKo0_U4CICiOW8AKc_mAZGHxyZDFTsF37vu"
+    },
+    "EasyChartboost": {
+        "UseEasyChartboost": false,
+        "ChartboostAppId": "",
+        "ChartboostAppSignature": ""
+    },
+    "EasyFacebook": {
+        "UseEasyFacebook": false,
+        "BannerId": "",
+        "InterstitialId": "",
+        "RewardedVideoId": ""
+    },
+    "EasyHeyzap": {
+        "UseEasyHeyzap": false,
+        "PublisherId": ""
+    },
+    "EasyIronSource": {
+        "UseEasyIronSource": false,
+        "AppKey": "",
+        "BannerAdUnit": "",
+        "InterstitialAdUnit": "",
+        "RewardedVideoAdUnit": ""
+    },
+    "EasyMoPub": {
+        "UseEasyMoPub": false,
+        "BannerAdUnit": "",
+        "InterstitialAdUnit": "",
+        "RewardedVideoAdUnit": ""
+    },
+    "EasyUnityAds": {
+        "UseEasyUnityAds": true,
+        "UnityAdsId": "4392549",
+        "BannerPlacement": "Banner_Android",
+        "VideoAdPlacement": "Interstitial_Android",
+        "RewardedVideoAdPlacement": "Rewarded_Android"
+    },
+    "EasyVungle": {
+        "UseEasyVungle": false,
+        "AppID": "",
+        "RewardedPlacementId": "",
+        "InterstitialPlacementID": ""
+    }
+}
