@@ -31,5 +31,38 @@
             "Stars": 3,
             "IsBEST": true
         }
+         ,
+        {
+            "Name": "STICKMAN GHOST ONLINE",
+            "GameUrl": "https://html5.gamedistribution.com/ef025645b1a542f6ba0f8844d3e969b1/",
+            "GameIconUrl": "https://img.gamedistribution.com/ef025645b1a542f6ba0f8844d3e969b1-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true
+        }
+        ,
+        {
+            "Name": "PANDA FIGHT",
+            "GameUrl": "https://html5.gamedistribution.com/b184a89d9ca24672b2439811e2e65bc1/",
+            "GameIconUrl": "https://img.gamedistribution.com/b184a89d9ca24672b2439811e2e65bc1-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": false
+        }
+         ,
+        {
+            "Name": "SUPER HERO LEAGUE ONLINE",
+            "GameUrl": "https://html5.gamedistribution.com/fc0883fdd27a4f2b8600f1a66e7e3367/",
+            "GameIconUrl": "https://img.gamedistribution.com/fc0883fdd27a4f2b8600f1a66e7e3367-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": false
+        }
     ]
 }
