@@ -65,7 +65,7 @@
     },
     "EasyUnityAds": {
         "UseEasyUnityAds": true,
-        "UnityAdsId": "4392549",
+        "UnityAdsId": "4418491",
         "BannerPlacement": "Banner_Android",
         "VideoAdPlacement": "Interstitial_Android",
         "RewardedVideoAdPlacement": "Rewarded_Android"
