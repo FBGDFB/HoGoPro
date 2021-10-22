@@ -8,7 +8,8 @@
                 "instanceID": 0
             },
             "Stars": 0,
-            "IsBEST": true
+            "IsBEST": true,
+            "IsNew": false
         },
         {
             "Name": "SQUIDLY GAME 123 STOP ",
@@ -18,7 +19,8 @@
                 "instanceID": 0
             },
             "Stars": 3,
-            "IsBEST": false
+            "IsBEST": false,
+            "IsNew": true
         }
         ,
         {
@@ -29,7 +31,8 @@
                 "instanceID": 0
             },
             "Stars": 3,
-            "IsBEST": true
+            "IsBEST": true,
+            "IsNew": false
         }
          ,
         {
@@ -40,7 +43,8 @@
                 "instanceID": 0
             },
             "Stars": 4,
-            "IsBEST": true
+            "IsBEST": true,
+            "IsNew": false
         }
         ,
         {
@@ -51,7 +55,8 @@
                 "instanceID": 0
             },
             "Stars": 3,
-            "IsBEST": false
+            "IsBEST": false,
+            "IsNew": true
         }
          ,
         {
@@ -62,7 +67,8 @@
                 "instanceID": 0
             },
             "Stars": 3,
-            "IsBEST": false
+            "IsBEST": false,
+            "IsNew": true
         }
     ]
 }
