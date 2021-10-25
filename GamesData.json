@@ -9,7 +9,8 @@
             },
             "Stars": 4,
             "IsBEST": true,
-            "IsNew": true
+            "IsNew": true,
+            "IsVip": false
         },
         {
             "Name": "Defense of the kingdom",
@@ -20,7 +21,8 @@
             },
             "Stars": 3,
             "IsBEST": false,
-            "IsNew": true
+            "IsNew": true,
+            "IsVip": false
         }
         ,
         {
@@ -32,7 +34,8 @@
             },
             "Stars": 3,
             "IsBEST": true,
-            "IsNew": false
+            "IsNew": false,
+            "IsVip": false
         }
          ,
         {
@@ -44,7 +47,8 @@
             },
             "Stars": 4,
             "IsBEST": true,
-            "IsNew": false
+            "IsNew": false,
+            "IsVip": false
         }
         ,
         {
@@ -56,7 +60,8 @@
             },
             "Stars": 3,
             "IsBEST": false,
-            "IsNew": true
+            "IsNew": true,
+            "IsVip": false
         }
          ,
         {
@@ -68,7 +73,8 @@
             },
             "Stars": 3,
             "IsBEST": false,
-            "IsNew": true
+            "IsNew": true,
+            "IsVip": false
         }
     ]
 }
