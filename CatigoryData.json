@@ -171,5 +171,15 @@
             "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Love.png",
              "GamesDataUrl": ""
         }
+        ,
+        {
+            "Titel": "Cooking",
+            "Continer": "More than 123 Cooking games",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://img.gamemonetize.com/os4jgqpknerj3brurlqz0x6rg0ha13wx/512x512.jpg",
+             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/CookingGames.json"
+        }
     ]
 }
