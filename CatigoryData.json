@@ -7,7 +7,7 @@
                 "instanceID": 0
             },
             "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Action.png",
-            "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/GamesData.json"
+            "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/ActionGameData.json"
         },
         {
             "Titel": "Adventure",
