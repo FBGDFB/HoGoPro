@@ -1,0 +1,211 @@
+{
+    "Data": [
+        {
+            "Name": "Cook Up Game",
+            "GameUrl": "https://html5.gamemonetize.com/os4jgqpknerj3brurlqz0x6rg0ha13wx/",
+            "GameIconUrl": "https://img.gamemonetize.com/os4jgqpknerj3brurlqz0x6rg0ha13wx/512x512.jpg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": true,
+            "IsVip": true
+        }, 
+        {
+            "Name": "Cooking Sizzle",
+            "GameUrl": "https://html5.gamemonetize.com/kos7zbl2lxrq2m4rgep59nw2tc06kqv5/",
+            "GameIconUrl": "https://img.gamemonetize.com/kos7zbl2lxrq2m4rgep59nw2tc06kqv5/512x512.jpg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        }
+        , 
+        {
+            "Name": "SUSHI CHEF",
+            "GameUrl": "https://html5.gamemonetize.com/p0elhs3sbhslkpqz6xi8hxtcpue7tm3n/",
+            "GameIconUrl": "https://img.gamemonetize.com/p0elhs3sbhslkpqz6xi8hxtcpue7tm3n/512x512.jpg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": false,
+            "IsNew": false,
+            "IsVip": false
+        }
+        , 
+        {
+            "Name": "Burger Chef Tycoon",
+            "GameUrl": "https://html5.gamemonetize.com/bt951z635di1cwdxul6a2djuuk2zu2mg/",
+            "GameIconUrl": "https://img.gamemonetize.com/bt951z635di1cwdxul6a2djuuk2zu2mg/512x512.jpg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": false,
+            "IsNew": false,
+            "IsVip": false
+        }
+        , 
+        {
+            "Name": "Word Chef",
+            "GameUrl": "https://html5.gamemonetize.com/n60wg1dzex6wze7ud7jwp3f7eqmqlod9/",
+            "GameIconUrl": "https://img.gamemonetize.com/n60wg1dzex6wze7ud7jwp3f7eqmqlod9/512x512.jpg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        }
+        , 
+        {
+            "Name": "Hot Dog Maker",
+            "GameUrl": "https://html5.gamemonetize.com/wac81fzayb89sgudciz1k98o2b4hsgep/",
+            "GameIconUrl": "https://img.gamemonetize.com/wac81fzayb89sgudciz1k98o2b4hsgep/512x512.jpg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        }
+        , 
+        {
+            "Name": "Burger king",
+            "GameUrl": "https://html5.gamemonetize.com/s6l084od2tx4b3o7vnukn2ayi60vuman/",
+            "GameIconUrl": "https://img.gamemonetize.com/s6l084od2tx4b3o7vnukn2ayi60vuman/512x512.jpg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        }
+        , 
+        {
+            "Name": "Make popcorn 2021",
+            "GameUrl": "https://html5.gamemonetize.com/8g0zrr7nqqurdvjdt4m5lvmnf86mdwrl/",
+            "GameIconUrl": "https://img.gamemonetize.com/8g0zrr7nqqurdvjdt4m5lvmnf86mdwrl/512x512.jpg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": false,
+            "IsNew": false,
+            "IsVip": false
+        }
+        , 
+        {
+            "Name": "Word Chef",
+            "GameUrl": "https://html5.gamemonetize.com/3u7rvu026s77eoxxkoh4zp6gpzdhc88f/",
+            "GameIconUrl": "https://img.gamemonetize.com/3u7rvu026s77eoxxkoh4zp6gpzdhc88f/512x512.jpg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        }
+        , 
+        {
+            "Name": "Delicious Cake Shop",
+            "GameUrl": "https://html5.gamemonetize.com/6d1v4y13udd08ij4kqiup7sbxqujxq64/",
+            "GameIconUrl": "https://img.gamemonetize.com/6d1v4y13udd08ij4kqiup7sbxqujxq64/512x512.jpg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": false,
+            "IsNew": false,
+            "IsVip": false
+        }
+        , 
+        {
+            "Name": "Burger Cooking Simulator",
+            "GameUrl": "https://html5.gamemonetize.com/2edazpic0s8g1r7elsqyz4jp80spo6fq/",
+            "GameIconUrl": "https://img.gamemonetize.com/2edazpic0s8g1r7elsqyz4jp80spo6fq/512x512.jpg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": false,
+            "IsNew": false,
+            "IsVip": true
+        }
+        , 
+        {
+            "Name": "Chef Knife Master",
+            "GameUrl": "https://html5.gamemonetize.com/flz0fpk1rt3ybpvvh659lcukg4msx3vd/",
+            "GameIconUrl": "https://img.gamemonetize.com/flz0fpk1rt3ybpvvh659lcukg4msx3vd/512x512.jpg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars":4,
+            "IsBEST": false,
+            "IsNew": false,
+            "IsVip": false
+        }
+        , 
+        {
+            "Name": "Word Cooking",
+            "GameUrl": "https://html5.gamemonetize.com/2ek5cyn1s93cmrfzgvc8t9iiqz28dsvg/",
+            "GameIconUrl": "https://img.gamemonetize.com/2ek5cyn1s93cmrfzgvc8t9iiqz28dsvg/512x512.jpg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        }
+        , 
+        {
+            "Name": "Perfect Cutter",
+            "GameUrl": "https://html5.gamemonetize.com/wxtbvmnw0t854mirv37lambnsx9ecki9/",
+            "GameIconUrl": "https://img.gamemonetize.com/wxtbvmnw0t854mirv37lambnsx9ecki9/512x512.jpg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        }
+        , 
+        {
+            "Name": "Perfect Food Slices",
+            "GameUrl": "https://html5.gamemonetize.com/ismy4ejx8256xpru4rho0bdeppheu23d/",
+            "GameIconUrl": "https://img.gamemonetize.com/ismy4ejx8256xpru4rho0bdeppheu23d/512x512.jpg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        }
+        , 
+        {
+            "Name": "Pizza Maker",
+            "GameUrl": "https://html5.gamemonetize.com/olmx0edmmvb0jg26my0dkmx5scnfgcx5/",
+            "GameIconUrl": "",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 0,
+            "IsBEST": false,
+            "IsNew": false,
+            "IsVip": false
+        }
+       
+    ]
+}
