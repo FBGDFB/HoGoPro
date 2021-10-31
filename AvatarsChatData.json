@@ -1,0 +1,49 @@
+{
+    "Data": [
+        {
+            "Avatar_Name": "Hamiltion",
+            "Online": true,
+            "Icon": {
+                "instanceID": 0
+            },
+            "Icon_Url": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Avatars/Boy%201.png",
+            "Chat_Data_Url": "http://194.163.154.196/apps2/raptorgamer/contact/chat/chatbot1.json"
+        },
+        {
+            "Avatar_Name": "Alix",
+            "Online": true,
+            "Icon": {
+                "instanceID": 0
+            },
+            "Icon_Url": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Avatars/Boy%201.png",
+            "Chat_Data_Url": "http://194.163.154.196/apps2/raptorgamer/contact/chat/chatbot2.json"
+        },
+        {
+            "Avatar_Name": "Jhon",
+            "Online": true,
+            "Icon": {
+                "instanceID": 0
+            },
+            "Icon_Url": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Avatars/Boy%202.png",
+            "Chat_Data_Url": "http://194.163.154.196/apps2/invictor/contact/chat/chatbot3.json"
+        },
+        {
+            "Avatar_Name": "Hamiltion",
+            "Online": true,
+            "Icon": {
+                "instanceID": 0
+            },
+            "Icon_Url": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Avatars/Boy%203.png",
+            "Chat_Data_Url": "http://194.163.154.196/apps2/raptorgamer/contact/chat/chatbot1.json"
+        },
+        {
+            "Avatar_Name": "Max",
+            "Online": true,
+            "Icon": {
+                "instanceID": 0
+            },
+            "Icon_Url": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Avatars/Boy%205.png",
+            "Chat_Data_Url": "http://194.163.154.196/apps2/invictor/contact/chat/chatbot3.json"
+        }
+    ]
+}
