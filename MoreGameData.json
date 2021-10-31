@@ -1,46 +1,19 @@
 {
     "Data": [
+        
         {
-            "Name": "sara",
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Swap/1.jpg",
-            "GameUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Swap/1.jpg",
-             "Stars": 3,
-            "IsGameInBrawser": false
-        },
-        {
-            "Name": "ggg",
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Swap/2.jpg",
-            "GameUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Swap/2.jpg",
-            "Stars": 5,
-            "IsGameInBrawser": false
-        },
-        {
-            "Name": "ggg",
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Swap/3.jpg",
-            "GameUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Swap/3.jpg",
+            "Name": "Halloween Cooking",
+            "IconUrl": "https://img.gamemonetize.com/sxsm37f4tv9k3fswm5rztmwcvd5kru0c/512x384.jpg",
+            "GameUrl": "https://html5.gamemonetize.com/sxsm37f4tv9k3fswm5rztmwcvd5kru0c/",
             "Stars": 4,
-            "IsGameInBrawser": false
+            "IsGameInBrawser": true
         },
         {
-            "Name": "setertara",
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Swap/4.jpg",
-            "GameUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Swap/4.jpg",
-            "Stars": 3,
-            "IsGameInBrawser": false
-        },
-        {
-            "Name": "rt",
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Swap/5.jpg",
-            "GameUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Swap/5.jpg",
-            "Stars": 2,
-            "IsGameInBrawser": false
-        },
-        {
-            "Name": "rth",
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Swap/maxresde.jpg",
-            "GameUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Swap/maxresde.jpg",
+            "Name": "Talking Tom",
+            "IconUrl": "https://img.gamemonetize.com/hn5dh0x6wcnroy3p33ogeyu5z6xsltvw/512x384.jpg",
+            "GameUrl": "https://html5.gamemonetize.com/hn5dh0x6wcnroy3p33ogeyu5z6xsltvw/",
             "Stars": 5,
-            "IsGameInBrawser": false
+            "IsGameInBrawser": true
         }
         ,
         {
