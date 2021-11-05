@@ -3,6 +3,9 @@
         {
             "Avatar_Name": "Hamiltion",
             "Online": true,
+            "IsLocked": false,
+            "IsGift": false,
+            "IsNew": false,
             "Icon": {
                 "instanceID": 0
             },
@@ -12,6 +15,9 @@
         {
             "Avatar_Name": "Alix",
             "Online": true,
+            "IsLocked": true,
+            "IsGift": false,
+            "IsNew": false,
             "Icon": {
                 "instanceID": 0
             },
@@ -20,7 +26,10 @@
         },
         {
             "Avatar_Name": "Jhon",
-            "Online": true,
+            "Online": false,
+            "IsLocked": false,
+            "IsGift": true,
+            "IsNew": true,
             "Icon": {
                 "instanceID": 0
             },
@@ -29,7 +38,10 @@
         },
         {
             "Avatar_Name": "Hamiltion",
-            "Online": true,
+            "Online": false,
+            "IsLocked": false,
+            "IsGift": false,
+            "IsNew": false,
             "Icon": {
                 "instanceID": 0
             },
@@ -39,6 +51,9 @@
         {
             "Avatar_Name": "Max",
             "Online": true,
+            "IsLocked": true,
+            "IsGift": true,
+            "IsNew": true,
             "Icon": {
                 "instanceID": 0
             },
