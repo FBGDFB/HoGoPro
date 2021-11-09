@@ -8,5 +8,8 @@
     "MoreURL": "",
     "feedbackEmail": "[Your feedback mail]",
     "link": "[Your application store link]",
-    "privacyURL": ""
+    "privacyURL": "",
+    "RobotTime": 50,
+    "GiftTime": 30,
+    "FreeCoinsTime": 23
 }
