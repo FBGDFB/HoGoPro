@@ -1,0 +1,160 @@
+{
+    "Data": [
+        {
+            "Name": "TRICKY TILES",
+            "GameUrl": "https://html5.gamedistribution.com/192a8a8df6a2413c8f26c77cfe3a90c8/",
+            "GameIconUrl": "https://img.gamedistribution.com/192a8a8df6a2413c8f26c77cfe3a90c8-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": true,
+            "IsVip": true
+        },
+        {
+            "Name": "CASTLE SAGA",
+            "GameUrl": "https://html5.gamedistribution.com/ab90fb200e70478e8e414c30e3f13d0b/",
+            "GameIconUrl": "https://img.gamedistribution.com/ab90fb200e70478e8e414c30e3f13d0b-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": true,
+            "IsVip": true
+        },
+        {
+            "Name": "KITTY PINBALL",
+            "GameUrl": "https://html5.gamedistribution.com/bcc8df13c93e44e5ad2f3d8abc88e552/",
+            "GameIconUrl": "https://img.gamedistribution.com/bcc8df13c93e44e5ad2f3d8abc88e552-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": true,
+            "IsVip": true
+        },
+        {
+            "Name": "ZUMBA MANIA",
+            "GameUrl": "https://html5.gamedistribution.com/1d9078d79d6c410d879f456d658d63fa/",
+            "GameIconUrl": "https://img.gamedistribution.com/1d9078d79d6c410d879f456d658d63fa-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },
+        {
+            "Name": "GEM 11",
+            "GameUrl": "https://html5.gamedistribution.com/668ab6fee12f4674ab08c2166b8881e9/",
+            "GameIconUrl": "https://img.gamedistribution.com/668ab6fee12f4674ab08c2166b8881e9-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": true,
+            "IsVip": true
+        },
+        {
+            "Name": "THE MERGEST KINGDOM",
+            "GameUrl": "https://html5.gamedistribution.com/b5203bfef51242c39690c761321d769f/",
+            "GameIconUrl": "https://img.gamedistribution.com/b5203bfef51242c39690c761321d769f-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": true,
+            "IsVip": true
+        },
+        {
+            "Name": "MONUMENT",
+            "GameUrl": "https://html5.gamedistribution.com/46172d83ae3d45ce86812531fa40b103/",
+            "GameIconUrl": "https://img.gamedistribution.com/46172d83ae3d45ce86812531fa40b103-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 43,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },
+        {
+            "Name": "WORMS ZONE",
+            "GameUrl": "https://html5.gamedistribution.com/5dd0b18fb81d49da82ff459f08737390/",
+            "GameIconUrl": "https://img.gamedistribution.com/5dd0b18fb81d49da82ff459f08737390-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },
+        {
+            "Name": "LINES",
+            "GameUrl": "https://html5.gamedistribution.com/318d1f7fb5874c00bc8679b773ec9a67/",
+            "GameIconUrl": "https://img.gamedistribution.com/318d1f7fb5874c00bc8679b773ec9a67-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },
+         {
+            "Name": "JEWELS BLITZ 4",
+            "GameUrl": "https://html5.gamedistribution.com/9227816b3df6466fbbd44f4a95f66637/",
+            "GameIconUrl": "https://img.gamedistribution.com/9227816b3df6466fbbd44f4a95f66637-512x384.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },
+        {
+            "Name": "POKE.IO",
+            "GameUrl": "https://html5.gamedistribution.com/5d33a872bfa94cfd9973abc4122ea74b/",
+            "GameIconUrl": "https://img.gamedistribution.com/5d33a872bfa94cfd9973abc4122ea74b-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },
+        {
+            "Name": "POLE VAULT 3D",
+            "GameUrl": "https://html5.gamedistribution.com/189ed209ac764042b8db5eaad432bcd9/",
+            "GameIconUrl": "https://img.gamedistribution.com/189ed209ac764042b8db5eaad432bcd9-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },
+        {
+            "Name": "BRIDGE LEGENDS",
+            "GameUrl": "https://html5.gamedistribution.com/0ca7538518e64d568187f3a543c49543/",
+            "GameIconUrl": "https://img.gamedistribution.com/0ca7538518e64d568187f3a543c49543-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        }
+    ]
+}
