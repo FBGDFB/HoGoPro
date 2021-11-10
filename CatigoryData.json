@@ -1,5 +1,5 @@
 {
-    "Virtion": 2,
+    "Virtion": 3,
     "Data": [
         {
             "Titel": "Actions",
@@ -192,7 +192,16 @@
             "IconUrl": "https://img.gamemonetize.com/zsihrh51ux1aahka9t4u5nciouwn5nut/512x512.jpg",
              "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/ZombeGame.json"
         }
-        
+         ,
+        {
+            "Titel": "Top Picks",
+            "Continer": "More than 43 Top Picks games",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://gamedistribution.com/images/featured/tp-logo.png",
+             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/ZombeGame.json"
+        }
         
         
     ]
