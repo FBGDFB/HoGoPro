@@ -143,7 +143,7 @@
                 "instanceID": 0
             },
             "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Strategy.png",
-             "GamesDataUrl": ""
+             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/StrategyGames.json"
         },
         {
             "Titel": "Trivia",
