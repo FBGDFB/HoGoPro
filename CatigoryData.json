@@ -1,5 +1,5 @@
 {
-    "Virtion": 1,
+    "Virtion": 2,
     "Data": [
         {
             "Titel": "Actions",
@@ -8,7 +8,7 @@
                 "instanceID": 0
             },
             "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Action.png",
-            "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/ActionGameData.json"
+            "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/ActionGameData.json"
         },
         {
             "Titel": "Adventure",
@@ -26,7 +26,7 @@
                 "instanceID": 0
             },
             "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Arcade.png",
-             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/ArcadeGames.json"
+             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/ArcadeGames.json"
         },
         {
             "Titel": "Board",
@@ -89,7 +89,7 @@
                 "instanceID": 0
             },
             "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Music.png",
-             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/MusicGames.json"
+             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/mainCatigory/MusicGames.json"
         },
         {
             "Titel": "Puzzle",
@@ -134,7 +134,7 @@
                 "instanceID": 0
             },
             "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Sports.png",
-             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/SportsGames.json"
+             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/SportsGames.json"
         },
         {
             "Titel": "Strategy",
@@ -180,7 +180,20 @@
                 "instanceID": 0
             },
             "IconUrl": "https://img.gamemonetize.com/os4jgqpknerj3brurlqz0x6rg0ha13wx/512x512.jpg",
-             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/CookingGames.json"
+             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/CookingGames.json"
         }
+         ,
+        {
+            "Titel": "Zombies",
+            "Continer": "More than 43 Zombies games",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://img.gamemonetize.com/zsihrh51ux1aahka9t4u5nciouwn5nut/512x512.jpg",
+             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/ZombeGame.json"
+        }
+        
+        
+        
     ]
 }
