@@ -1,0 +1,329 @@
+{
+    "Data": [
+        {
+            "Name": "CASTLE DEFENSE",
+            "GameUrl": "https://html5.gamedistribution.com/e6ee572fba924c56a80840df362f6a98/",
+            "GameIconUrl": "https://img.gamedistribution.com/e6ee572fba924c56a80840df362f6a98-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },
+         {
+            "Name": "MK48.IO",
+            "GameUrl": "https://html5.gamedistribution.com/1802972a26fc4bcfa60a98c63ed86002/",
+            "GameIconUrl": "https://img.gamedistribution.com/1802972a26fc4bcfa60a98c63ed86002-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },
+         {
+            "Name": "STICK CLASH",
+            "GameUrl": "https://html5.gamedistribution.com/0a33b3126432444ea0127f9fded4a09a/",
+            "GameIconUrl": "https://img.gamedistribution.com/0a33b3126432444ea0127f9fded4a09a-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": true,
+            "IsVip": true
+        },
+         {
+            "Name": "IDLE MINING EMPIRE",
+            "GameUrl": "https://html5.gamedistribution.com/036ea308d90d43a1aed40716ae683c94/",
+            "GameIconUrl": "https://img.gamedistribution.com/036ea308d90d43a1aed40716ae683c94-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },
+         {
+            "Name": "DRAW ATTACK",
+            "GameUrl": "https://html5.gamedistribution.com/05bae7fbd5d44e7d8709bf8ed7ee4d69/",
+            "GameIconUrl": "https://img.gamedistribution.com/05bae7fbd5d44e7d8709bf8ed7ee4d69-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },
+         {
+            "Name": "UNBLOCK PARKING",
+            "GameUrl": "https://html5.gamedistribution.com/f950fa3ff09944cba4083938293e00f8/",
+            "GameIconUrl": "https://img.gamedistribution.com/f950fa3ff09944cba4083938293e00f8-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },
+         {
+            "Name": "ROBOTS VS ALIENS",
+            "GameUrl": "https://html5.gamedistribution.com/9a24754a054545c7b04b193a4ba68e67/",
+            "GameIconUrl": "https://img.gamedistribution.com/9a24754a054545c7b04b193a4ba68e67-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },
+         {
+            "Name": "BASKET PUZZLE",
+            "GameUrl": "https://html5.gamedistribution.com/b81ba9d654674017ab991a0f036bc4d3/",
+            "GameIconUrl": "https://img.gamedistribution.com/b81ba9d654674017ab991a0f036bc4d3-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },
+         {
+            "Name": "IMPERIA ONLINE",
+            "GameUrl": "https://html5.gamedistribution.com/e7b5a5f732ac45efb8db3d8ba6943585/",
+            "GameIconUrl": "https://img.gamedistribution.com/e7b5a5f732ac45efb8db3d8ba6943585-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },
+         {
+            "Name": "TANK BATTLE",
+            "GameUrl": "https://html5.gamedistribution.com/bd3ebf4517094258a736d893dff0d322/",
+            "GameIconUrl": "https://img.gamedistribution.com/bd3ebf4517094258a736d893dff0d322-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },
+         {
+            "Name": "CASTLE DEFENSE",
+            "GameUrl": "https://html5.gamedistribution.com/6d8b806e91dc48f0bf56bcd5d2557138/",
+            "GameIconUrl": "https://img.gamedistribution.com/6d8b806e91dc48f0bf56bcd5d2557138-512x384.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },
+         {
+            "Name": "ETERNAL FURY",
+            "GameUrl": "https://html5.gamedistribution.com/6f6471ecbc2447d29aa1173e591448e3/",
+            "GameIconUrl": "https://img.gamedistribution.com/6f6471ecbc2447d29aa1173e591448e3-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": true,
+            "IsVip": true
+        },
+         {
+            "Name": "CAT WIZARD",
+            "GameUrl": "https://html5.gamedistribution.com/f1c3386666994361930d35de5474d449/",
+            "GameIconUrl": "https://img.gamedistribution.com/f1c3386666994361930d35de5474d449-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },
+         {
+            "Name": "TIC TAC TOE",
+            "GameUrl": "https://html5.gamedistribution.com/5a86b6921d064932b27a0d9d2ff34811/",
+            "GameIconUrl": "https://img.gamedistribution.com/5a86b6921d064932b27a0d9d2ff34811-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },
+         {
+            "Name": "WIN OR LOSE",
+            "GameUrl": "https://html5.gamedistribution.com/2eb790244e784a31afb4d67171f506f7/",
+            "GameIconUrl": "https://img.gamedistribution.com/2eb790244e784a31afb4d67171f506f7.jpg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },
+         {
+            "Name": "DEFENSE BATTLE",
+            "GameUrl": "https://html5.gamedistribution.com/48774aecb23044e9b2c4454c6b7aefda/",
+            "GameIconUrl": "https://img.gamedistribution.com/48774aecb23044e9b2c4454c6b7aefda-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },
+         {
+            "Name": "SOLITAIRE TRIPEAKS",
+            "GameUrl": "https://html5.gamedistribution.com/f556553455ee4295a8b7477335a72241/",
+            "GameIconUrl": "https://img.gamedistribution.com/f556553455ee4295a8b7477335a72241-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },
+         {
+            "Name": "ONE DOT",
+            "GameUrl": "https://html5.gamedistribution.com/7793e6b852944a49b1ae911578a79a63/",
+            "GameIconUrl": "https://img.gamedistribution.com/7793e6b852944a49b1ae911578a79a63-512x384.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": false,
+            "IsNew": false,
+            "IsVip": false
+        },
+        {
+            "Name": "SHEEP FIGHT",
+            "GameUrl": "https://html5.gamedistribution.com/93dd724bb9844338be4de09b589c274a/",
+            "GameIconUrl": "https://img.gamedistribution.com/93dd724bb9844338be4de09b589c274a-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": true,
+            "IsVip": true
+        },
+        {
+            "Name": "SENTRY GUARDIAN",
+            "GameUrl": "https://html5.gamedistribution.com/2f46726c6e344176825cb37b17634b58/",
+            "GameIconUrl": "https://img.gamedistribution.com/2f46726c6e344176825cb37b17634b58-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },
+        {
+            "Name": "MONSTER TOWER",
+            "GameUrl": "https://html5.gamedistribution.com/dbb34e69b90b4e7184480f2bda7d5185/",
+            "GameIconUrl": "https://img.gamedistribution.com/dbb34e69b90b4e7184480f2bda7d5185-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },
+        {
+            "Name": "EPIC RIVALS",
+            "GameUrl": "https://html5.gamedistribution.com/3711b87e0b0f4f64bdd25dbe57e5ef0a/",
+            "GameIconUrl": "https://img.gamedistribution.com/3711b87e0b0f4f64bdd25dbe57e5ef0a-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": true,
+            "IsVip": true
+        },
+        {
+            "Name": "CORPORATE OVERLORD",
+            "GameUrl": "https://html5.gamedistribution.com/c734cee4688140e1932a736be6a5bb18/",
+            "GameIconUrl": "https://img.gamedistribution.com/c734cee4688140e1932a736be6a5bb18-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },
+        {
+            "Name": "RED OUTPOST",
+            "GameUrl": "https://html5.gamedistribution.com/27e7d891966642e980f4bb769989d568/",
+            "GameIconUrl": "https://img.gamedistribution.com/27e7d891966642e980f4bb769989d568-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },
+        {
+            "Name": "TOWER OF BABEL",
+            "GameUrl": "https://html5.gamedistribution.com/e39be0bc8df1453fa716a1d7ac0c0e09/",
+            "GameIconUrl": "https://img.gamedistribution.com/e39be0bc8df1453fa716a1d7ac0c0e09-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": false,
+            "IsNew": false,
+            "IsVip": false
+        },
+        {
+            "Name": "MATCH ARENA",
+            "GameUrl": "https://html5.gamedistribution.com/15e07594984f413f9b578afe16778eb9/",
+            "GameIconUrl": "https://img.gamedistribution.com/15e07594984f413f9b578afe16778eb9-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": true,
+            "IsVip": true
+        },
+        {
+            "Name": "PIXEL WAR",
+            "GameUrl": "https://html5.gamedistribution.com/65111637d9404ac79231a3a8789fba54/",
+            "GameIconUrl": "https://img.gamedistribution.com/65111637d9404ac79231a3a8789fba54-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },
+        
+    ]
+}
