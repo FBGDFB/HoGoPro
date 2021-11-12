@@ -74,15 +74,6 @@
              "GamesDataUrl": ""
         },
         {
-            "Titel": "Family",
-            "Continer": "More than 150 games",
-            "Icon": {
-                "instanceID": 0
-            },
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Family.jpg",
-             "GamesDataUrl": ""
-        },
-        {
             "Titel": "Music",
             "Continer": "More than 420 games",
             "Icon": {
@@ -107,15 +98,6 @@
                 "instanceID": 0
             },
             "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Racing.png",
-             "GamesDataUrl": ""
-        },
-        {
-            "Titel": "Role Playing",
-            "Continer": "More than 10 games",
-            "Icon": {
-                "instanceID": 0
-            },
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Role%20Playing.png",
              "GamesDataUrl": ""
         },
         {
