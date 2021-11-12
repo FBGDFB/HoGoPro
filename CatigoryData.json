@@ -1,5 +1,5 @@
 {
-    "Virtion": 4,
+    "Virtion": 5,
     "Data": [
         {
             "Titel": "Actions",
@@ -193,7 +193,16 @@
             "IconUrl": "https://gamedistribution.com/images/featured/tp-logo.png",
              "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/TopPicksGames.json"
         }
-        
+        ,
+        {
+            "Titel": "Coloring",
+            "Continer": "More than 43 Coloring games",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://img.gamedistribution.com/dd1a9663953d4eb7820b9cfb7c104ecc-512x384.jpeg",
+             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/ColoringGames.json"
+        }
         
     ]
 }
