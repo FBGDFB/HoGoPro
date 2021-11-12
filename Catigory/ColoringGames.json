@@ -144,18 +144,8 @@
             "IsBEST": true,
             "IsNew": false,
             "IsVip": true
-        }, {
-            "Name": "BUNNIES COLORING",
-            "GameUrl": "https://img.gamedistribution.com/0af03f1c030542ff965c43980e63389a-512x512.jpeg",
-            "GameIconUrl": "https://html5.gamedistribution.com/0af03f1c030542ff965c43980e63389a/",
-            "Icon": {
-                "instanceID": 0
-            },
-            "Stars": 3,
-            "IsBEST": true,
-            "IsNew": false,
-            "IsVip": false
-        }, {
+        }, 
+        {
             "Name": "CHIBI DOTTEDGIRL",
             "GameUrl": "https://html5.gamedistribution.com/b8fc9485dd1f4bababdcda2fb3483cdf/",
             "GameIconUrl": "https://img.gamedistribution.com/b8fc9485dd1f4bababdcda2fb3483cdf-512x512.jpeg",
@@ -166,7 +156,8 @@
             "IsBEST": true,
             "IsNew": false,
             "IsVip": false
-        }, {
+        },
+        {
             "Name": "STENCIL ART",
             "GameUrl": "https://html5.gamedistribution.com/6624510f74324bd784eacd11dac69438/",
             "GameIconUrl": "https://img.gamedistribution.com/6624510f74324bd784eacd11dac69438-512x384.jpeg",
