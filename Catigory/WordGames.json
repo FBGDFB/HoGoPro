@@ -1,0 +1,436 @@
+{
+    "Data": [
+        {
+            "Name": "ARKADIUM'S CODEWORD",
+            "GameUrl": "https://html5.gamedistribution.com/63a0f26e46d44cf39789b6ea74d1fd99/",
+            "GameIconUrl": "https://img.gamedistribution.com/63a0f26e46d44cf39789b6ea74d1fd99-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },
+        {
+            "Name": "DINGBATS",
+            "GameUrl": "https://html5.gamedistribution.com/3a97ddbbe9e044a0a69ea50c70ea7e82/",
+            "GameIconUrl": "https://img.gamedistribution.com/3a97ddbbe9e044a0a69ea50c70ea7e82-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },{
+            "Name": "CIRCUS WORDS",
+            "GameUrl": "https://html5.gamedistribution.com/bbbcbc5c5b53473f9bcabe802b2f5296/",
+            "GameIconUrl": "https://img.gamedistribution.com/bbbcbc5c5b53473f9bcabe802b2f5296-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "HANGMAN",
+            "GameUrl": "https://html5.gamedistribution.com/9e35c46b6ef34cdea5ef8442df6b8cbb/",
+            "GameIconUrl": "https://img.gamedistribution.com/9e35c46b6ef34cdea5ef8442df6b8cbb-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": true,
+            "IsVip": true
+        },{
+            "Name": "WORD HUNTER",
+            "GameUrl": "https://html5.gamedistribution.com/7439da1be18d44ababc5e0eefa7e5ebe/",
+            "GameIconUrl": "https://img.gamedistribution.com/7439da1be18d44ababc5e0eefa7e5ebe-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "HANGMAN",
+            "GameUrl": "https://html5.gamedistribution.com/6870af61b70b42f3a0f5226d81668bb7/",
+            "GameIconUrl": "https://img.gamedistribution.com/6870af61b70b42f3a0f5226d81668bb7-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },{
+            "Name": "KIDS HANGMAN",
+            "GameUrl": "https://html5.gamedistribution.com/0f2709631ff94c82bf20dd08bcb4b825/",
+            "GameIconUrl": "https://img.gamedistribution.com/0f2709631ff94c82bf20dd08bcb4b825-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "ALPHABET WORDS",
+            "GameUrl": "https://html5.gamedistribution.com/e83c006e6ca54784bee32364a0694253/",
+            "GameIconUrl": "https://img.gamedistribution.com/e83c006e6ca54784bee32364a0694253-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "GUESS CELEBRITIES",
+            "GameUrl": "https://html5.gamedistribution.com/7d063d9cba354cb694074aa8afc928ea/",
+            "GameIconUrl": "https://img.gamedistribution.com/7d063d9cba354cb694074aa8afc928ea-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },{
+            "Name": "WHEEL OF REWARDS",
+            "GameUrl": "https://html5.gamedistribution.com/f0197272dd404c74b309b86247d211ff/",
+            "GameIconUrl": "https://img.gamedistribution.com/f0197272dd404c74b309b86247d211ff-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },{
+            "Name": "KITTY SCRAMBLE",
+            "GameUrl": "https://html5.gamedistribution.com/944186abe50e452dac7f0e8d3e0a8814/",
+            "GameIconUrl": "https://img.gamedistribution.com/944186abe50e452dac7f0e8d3e0a8814-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": true,
+            "IsVip": true
+        },{
+            "Name": "DRAWAR.IO",
+            "GameUrl": "https://html5.gamedistribution.com/0b1e1a2362474fe993eea9048522e792/",
+            "GameIconUrl": "https://img.gamedistribution.com/0b1e1a2362474fe993eea9048522e792-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "WORD SAUCE",
+            "GameUrl": "https://html5.gamedistribution.com/8d8965a1f1af4d2b884e0bc48737925d/",
+            "GameIconUrl": "https://img.gamedistribution.com/8d8965a1f1af4d2b884e0bc48737925d-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },{
+            "Name": "WORD CROSS",
+            "GameUrl": "https://html5.gamedistribution.com/fbc8f9359d3043e38cb8464682fc1585/",
+            "GameIconUrl": "https://img.gamedistribution.com/fbc8f9359d3043e38cb8464682fc1585-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "TYPE RUN",
+            "GameUrl": "https://html5.gamedistribution.com/4aa0b78887e64e1ab69ff666c0e9889c/",
+            "GameIconUrl": "https://img.gamedistribution.com/4aa0b78887e64e1ab69ff666c0e9889c-512x384.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },
+        {
+            "Name": "CROSSWORD",
+            "GameUrl": "https://html5.gamedistribution.com/3e314ff40f40472f9aefed5b046f6dcc/",
+            "GameIconUrl": "https://img.gamedistribution.com/3e314ff40f40472f9aefed5b046f6dcc-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },{
+            "Name": "HANGMAN",
+            "GameUrl": "https://html5.gamedistribution.com/c062d53d85834621874a138ef173857d/",
+            "GameIconUrl": "https://img.gamedistribution.com/c062d53d85834621874a138ef173857d-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "WITCH CROSSWORD",
+            "GameUrl": "https://html5.gamedistribution.com/ca735c8411444343946338e963f4fb1e/",
+            "GameIconUrl": "https://img.gamedistribution.com/ca735c8411444343946338e963f4fb1e-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": true,
+            "IsVip": true
+        },{
+            "Name": "CROSS WORD",
+            "GameUrl": "https://html5.gamedistribution.com/16fcfe1e70e248efbd43c1dca4ab5337/",
+            "GameIconUrl": "https://img.gamedistribution.com/16fcfe1e70e248efbd43c1dca4ab5337-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "WORDMEISTER",
+            "GameUrl": "https://html5.gamedistribution.com/b6439239c9ab43bf925defdb54ed0cbe/",
+            "GameIconUrl": "https://img.gamedistribution.com/b6439239c9ab43bf925defdb54ed0cbe-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": true,
+            "IsVip": true
+        },{
+            "Name": "WORD STICKERS!",
+            "GameUrl": "https://html5.gamedistribution.com/73b8a8e2fa4e4d6bbca1265e57e774aa/",
+            "GameIconUrl": "https://img.gamedistribution.com/73b8a8e2fa4e4d6bbca1265e57e774aa-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "OUTSPELL",
+            "GameUrl": "https://html5.gamedistribution.com/114dc9d315894e94a4a23a8a127f9bdc/",
+            "GameIconUrl": "https://img.gamedistribution.com/114dc9d315894e94a4a23a8a127f9bdc-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "WORD PUZZ",
+            "GameUrl": "https://html5.gamedistribution.com/5174fb667ebf4cbe81b45f7db215a201/",
+            "GameIconUrl": "https://img.gamedistribution.com/5174fb667ebf4cbe81b45f7db215a201-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "HANGMAN",
+            "GameUrl": "https://html5.gamedistribution.com/85f63767afa14d30be9938b7e68b974c/",
+            "GameIconUrl": "https://img.gamedistribution.com/85f63767afa14d30be9938b7e68b974c-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "WORDS JUNGLE",
+            "GameUrl": "https://html5.gamedistribution.com/de665abb5f074807ae939b249c328f21/",
+            "GameIconUrl": "https://img.gamedistribution.com/de665abb5f074807ae939b249c328f21-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": true,
+            "IsVip": true
+        },{
+            "Name": "WORD WONDERS",
+            "GameUrl": "https://html5.gamedistribution.com/dc6c44131e384254b5a98f564911ed5e/",
+            "GameIconUrl": "https://img.gamedistribution.com/dc6c44131e384254b5a98f564911ed5e-512x384.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "WORD WOOD",
+            "GameUrl": "https://html5.gamedistribution.com/c2a7282efc3b409eb8700e7a9cfde292/",
+            "GameIconUrl": "https://img.gamedistribution.com/c2a7282efc3b409eb8700e7a9cfde292-512x384.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "WORDING",
+            "GameUrl": "https://html5.gamedistribution.com/93e5e41a4d8644bb9cac7c099bdd8b84/",
+            "GameIconUrl": "https://img.gamedistribution.com/93e5e41a4d8644bb9cac7c099bdd8b84-512x384.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "WORDS CRACKER",
+            "GameUrl": "https://html5.gamedistribution.com/d568288a951c49dd8032d3d337f87798/",
+            "GameIconUrl": "https://img.gamedistribution.com/d568288a951c49dd8032d3d337f87798-512x384.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": true,
+            "IsVip": true
+        },{
+            "Name": "WORDS CHALLENGE",
+            "GameUrl": "https://html5.gamedistribution.com/e6ad2f8b02f04d0f980f6bbb71b0d3ac/",
+            "GameIconUrl": "https://img.gamedistribution.com/e6ad2f8b02f04d0f980f6bbb71b0d3ac-512x384.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },{
+            "Name": "CASUAL CROSSWORD",
+            "GameUrl": "https://html5.gamedistribution.com/e231d5dfe0ff49e5bc20ca4a3b3d9f5e/",
+            "GameIconUrl": "https://img.gamedistribution.com/e231d5dfe0ff49e5bc20ca4a3b3d9f5e-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": true,
+            "IsVip": true
+        },{
+            "Name": "OMG WORD POP",
+            "GameUrl": "https://html5.gamedistribution.com/1bce4041408e4974a35ecbce0fced3bb/",
+            "GameIconUrl": "https://img.gamedistribution.com/1bce4041408e4974a35ecbce0fced3bb-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": true,
+            "IsVip": true
+        },{
+            "Name": "INTERNET HANGMAN",
+            "GameUrl": "https://html5.gamedistribution.com/cba8cac7136849f4a807f64ec3a30f4a/",
+            "GameIconUrl": "https://img.gamedistribution.com/cba8cac7136849f4a807f64ec3a30f4a-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },{
+            "Name": "WORDS PARTY",
+            "GameUrl": "https://html5.gamedistribution.com/3a3ad34194754e96add0d966935996b4/",
+            "GameIconUrl": "https://img.gamedistribution.com/3a3ad34194754e96add0d966935996b4-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "WORD FRESH",
+            "GameUrl": "https://html5.gamedistribution.com/09edb5d088584e89af6b9c2d968cade8/",
+            "GameIconUrl": "https://img.gamedistribution.com/09edb5d088584e89af6b9c2d968cade8-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "WORDSEARCH",
+            "GameUrl": "https://html5.gamedistribution.com/cb4c4a7ce043400e8159ab6fb67d11aa/",
+            "GameIconUrl": "https://img.gamedistribution.com/cb4c4a7ce043400e8159ab6fb67d11aa.jpg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": true,
+            "IsVip": true
+        },{
+            "Name": "",
+            "GameUrl": "",
+            "GameIconUrl": "",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "FREE WORDS",
+            "GameUrl": "https://html5.gamedistribution.com/a82bfcc90a8548a3976b0b2d13dd37dd/",
+            "GameIconUrl": "https://img.gamedistribution.com/a82bfcc90a8548a3976b0b2d13dd37dd.jpg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": true,
+            "IsVip": true
+        },{
+            "Name": "FESTIE WORDS",
+            "GameUrl": "http://html5.gamedistribution.com/21858fcc2a104ee185a47f92e0bae908/",
+            "GameIconUrl": "https://img.gamedistribution.com/21858fcc2a104ee185a47f92e0bae908.jpg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        }
+    ]
+}
