@@ -146,22 +146,13 @@
              "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/StrategyGames.json"
         },
         {
-            "Titel": "Trivia",
-            "Continer": "More than 120 games",
-            "Icon": {
-                "instanceID": 0
-            },
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Titel.jpg",
-             "GamesDataUrl": ""
-        },
-        {
             "Titel": "Word",
             "Continer": "More than 120 games",
             "Icon": {
                 "instanceID": 0
             },
             "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Word.png",
-             "GamesDataUrl": ""
+             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/WordGames.json"
         },
         {
             "Titel": "Love",
