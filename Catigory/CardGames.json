@@ -1,0 +1,744 @@
+{
+    "Data": [
+        {
+            "Name": "SPIDER SOLITAIRE",
+            "GameUrl": "https://html5.gamedistribution.com/c8b17ffb452442e9be0dca0e8c6f042b/",
+            "GameIconUrl": "https://img.gamedistribution.com/c8b17ffb452442e9be0dca0e8c6f042b-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },
+        {
+            "Name": "FOUR COLORS",
+            "GameUrl": "https://html5.gamedistribution.com/46172d83ae3d45ce86812531fa40b103/",
+            "GameIconUrl": "https://img.gamedistribution.com/46172d83ae3d45ce86812531fa40b103-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },{
+            "Name": "FREECELL SOLITAIRE",
+            "GameUrl": "https://html5.gamedistribution.com/ea490037093c4c2a801cea6ce98ca5e6/",
+            "GameIconUrl": "https://img.gamedistribution.com/ea490037093c4c2a801cea6ce98ca5e6-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },{
+            "Name": "SOLITAIRE STORY",
+            "GameUrl": "https://html5.gamedistribution.com/93b50da5e801487d974fffbd6ce0b3e3/",
+            "GameIconUrl": "https://img.gamedistribution.com/93b50da5e801487d974fffbd6ce0b3e3.jpg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },{
+            "Name": "SOLITAIRE STORY",
+            "GameUrl": "https://html5.gamedistribution.com/3d36eb6efdd04c548e70cea83708c874/",
+            "GameIconUrl": "https://img.gamedistribution.com/3d36eb6efdd04c548e70cea83708c874.jpg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": true,
+            "IsVip": true
+        },{
+            "Name": "4 COLORS CLASSIC",
+            "GameUrl": "https://html5.gamedistribution.com/bff8a5baf96043809f001ea89c129a4b/",
+            "GameIconUrl": "https://img.gamedistribution.com/bff8a5baf96043809f001ea89c129a4b-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },{
+            "Name": "KLONDIKE SOLITAIRE",
+            "GameUrl": "https://html5.gamedistribution.com/556b88e057c549aebe4167fcd79c5d9e/",
+            "GameIconUrl": "https://img.gamedistribution.com/556b88e057c549aebe4167fcd79c5d9e-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "SOLITAIRE SOCIAL",
+            "GameUrl": "https://html5.gamedistribution.com/13ac29d5b1714635a8430a940931504f/",
+            "GameIconUrl": "https://img.gamedistribution.com/13ac29d5b1714635a8430a940931504f-512x384.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "BRIDGE",
+            "GameUrl": "https://html5.gamedistribution.com/d1e594c8e6b94ea9934c9ed272d4fa6c/",
+            "GameIconUrl": "https://img.gamedistribution.com/d1e594c8e6b94ea9934c9ed272d4fa6c-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },{
+            "Name": "FOUR COLORS",
+            "GameUrl": "https://html5.gamedistribution.com/f2520bae00624e93a4f4614732fa259e/",
+            "GameIconUrl": "https://img.gamedistribution.com/f2520bae00624e93a4f4614732fa259e-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "365 SOLITAIRE",
+            "GameUrl": "https://html5.gamedistribution.com/c109097e57d140318b6371bd106db995/",
+            "GameIconUrl": "https://img.gamedistribution.com/c109097e57d140318b6371bd106db995-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": true,
+            "IsVip": true
+        },{
+            "Name": "SCORPION SOLITAIRE",
+            "GameUrl": "https://html5.gamedistribution.com/129f87d7dff5473faf38eb339b2bdfa1/",
+            "GameIconUrl": "https://img.gamedistribution.com/129f87d7dff5473faf38eb339b2bdfa1-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "CRAZY LITTLE EIGHTS",
+            "GameUrl": "https://html5.gamedistribution.com/909d6dde67184e1dbfce1a97926f7152/",
+            "GameIconUrl": "https://img.gamedistribution.com/909d6dde67184e1dbfce1a97926f7152-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "BLACKJACK VEGAS 21",
+            "GameUrl": "https://html5.gamedistribution.com/9a0c4c3feee947cc8bd07f25931fcae9/",
+            "GameIconUrl": "https://img.gamedistribution.com/9a0c4c3feee947cc8bd07f25931fcae9-512x384.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },{
+            "Name": "SOLITAIRE ",
+            "GameUrl": "https://html5.gamedistribution.com/4d1a4fc412a84cd6a3b1cc79c79f8200/",
+            "GameIconUrl": "https://img.gamedistribution.com/4d1a4fc412a84cd6a3b1cc79c79f8200-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },{
+            "Name": "KLONDIKE SOLITAIRE",
+            "GameUrl": "https://html5.gamedistribution.com/8e7f755ceca648fcaccf3713d599292e/",
+            "GameIconUrl": "https://img.gamedistribution.com/8e7f755ceca648fcaccf3713d599292e-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },{
+            "Name": "SOLITAIRE TRIPEAKS",
+            "GameUrl": "https://html5.gamedistribution.com/8b8cc237e7c947b1a8400335a1829a48/",
+            "GameIconUrl": "https://img.gamedistribution.com/8b8cc237e7c947b1a8400335a1829a48-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },{
+            "Name": "MICROSOFT SOLITAIRE ",
+            "GameUrl": "https://html5.gamedistribution.com/6c5fd1a4f3544538a6bbdfdc1c7bd507/",
+            "GameIconUrl": "https://img.gamedistribution.com/6c5fd1a4f3544538a6bbdfdc1c7bd507-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },{
+            "Name": "TRIPLE JACK",
+            "GameUrl": "https://html5.gamedistribution.com/448be7b3977848099683812930f83624/",
+            "GameIconUrl": "https://img.gamedistribution.com/448be7b3977848099683812930f83624-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 2,
+            "IsBEST": false,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "KINGS AND QUEENS",
+            "GameUrl": "https://html5.gamedistribution.com/344fff78cd674f62a549533551505ebb/",
+            "GameIconUrl": "https://img.gamedistribution.com/344fff78cd674f62a549533551505ebb-512x384.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "SOLITAIRE ZERO21",
+            "GameUrl": "https://html5.gamedistribution.com/5400794332d34ebd9e79862c54ed52d4/",
+            "GameIconUrl": "https://img.gamedistribution.com/5400794332d34ebd9e79862c54ed52d4-512x384.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "SOCIAL BLACKJACK",
+            "GameUrl": "https://html5.gamedistribution.com/0b3894d2745a42eb98d322f38377c915/",
+            "GameIconUrl": "https://img.gamedistribution.com/0b3894d2745a42eb98d322f38377c915-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },{
+            "Name": "21 SOLITAIRE",
+            "GameUrl": "https://html5.gamedistribution.com/7eb9064c218a491090ee39cb3778b7c9/",
+            "GameIconUrl": "https://img.gamedistribution.com/7eb9064c218a491090ee39cb3778b7c9-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },{
+            "Name": "ARIS SOLITAIRE",
+            "GameUrl": "https://html5.gamedistribution.com/f16ab940742a4261bd9837685c5fbf60/",
+            "GameIconUrl": "https://img.gamedistribution.com/f16ab940742a4261bd9837685c5fbf60-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": false,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "KING OF FREECELL",
+            "GameUrl": "https://html5.gamedistribution.com/689bfaadb59747e9b2de24b89f6912cb/",
+            "GameIconUrl": "https://img.gamedistribution.com/689bfaadb59747e9b2de24b89f6912cb-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },{
+            "Name": "CASINO MEMORY",
+            "GameUrl": "https://html5.gamedistribution.com/032ae4265b9a4037844f451d9e681566/",
+            "GameIconUrl": "https://img.gamedistribution.com/032ae4265b9a4037844f451d9e681566-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "ROYAL VEGAS",
+            "GameUrl": "https://html5.gamedistribution.com/1952529569614a539104e2c2e3e1cc24/",
+            "GameIconUrl": "https://img.gamedistribution.com/1952529569614a539104e2c2e3e1cc24-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },{
+            "Name": "KLONDIKE SOLITAIRE",
+            "GameUrl": "https://html5.gamedistribution.com/668c82ebba424604aeaa2eded9123bcc/",
+            "GameIconUrl": "https://img.gamedistribution.com/668c82ebba424604aeaa2eded9123bcc-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": true,
+            "IsVip": true
+        },{
+            "Name": "CLASSIC SOLITAIRE",
+            "GameUrl": "https://html5.gamedistribution.com/242bd2752ee64a3a897f3785355ea350/",
+            "GameIconUrl": "https://img.gamedistribution.com/242bd2752ee64a3a897f3785355ea350-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },
+        {
+            "Name": "POKER WITH FRIENDS",
+            "GameUrl": "https://html5.gamedistribution.com/80cf8e94d5af458e822afc6c9f5766e0/",
+            "GameIconUrl": "https://img.gamedistribution.com/80cf8e94d5af458e822afc6c9f5766e0-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },{
+            "Name": "DAILY SOLITAIRE",
+            "GameUrl": "https://html5.gamedistribution.com/19ba31c284044305ba7f59f15a50b682/",
+            "GameIconUrl": "https://img.gamedistribution.com/19ba31c284044305ba7f59f15a50b682-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "SPIDER SOLITAIRE",
+            "GameUrl": "https://html5.gamedistribution.com/8968595fc2ec46288a212e046481524a/",
+            "GameIconUrl": "https://img.gamedistribution.com/8968595fc2ec46288a212e046481524a-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },{
+            "Name": "BACCARAT",
+            "GameUrl": "https://html5.gamedistribution.com/8e515c0ef9de4f5cb55a3dadc7e23224/",
+            "GameIconUrl": "https://img.gamedistribution.com/8e515c0ef9de4f5cb55a3dadc7e23224-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": true,
+            "IsVip": true
+        },{
+            "Name": "21 BLITZ",
+            "GameUrl": "https://html5.gamedistribution.com/da5fcece3c9741578a9470ce3cae8a15/",
+            "GameIconUrl": "https://img.gamedistribution.com/da5fcece3c9741578a9470ce3cae8a15-512x384.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": false,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "STOP THE BUS",
+            "GameUrl": "https://html5.gamedistribution.com/9cbd658c4edf4f3283e54337f080f341/",
+            "GameIconUrl": "https://img.gamedistribution.com/9cbd658c4edf4f3283e54337f080f341-512x384.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "RUMMY MULTIPLAYER",
+            "GameUrl": "https://html5.gamedistribution.com/5a3346e1be454327909c196ebb06aaea/",
+            "GameIconUrl": "https://img.gamedistribution.com/5a3346e1be454327909c196ebb06aaea-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "CLASSIC SOLITAIRE",
+            "GameUrl": "https://html5.gamedistribution.com/5a549c45973245fcb6df95896712b849/",
+            "GameIconUrl": "https://img.gamedistribution.com/5a549c45973245fcb6df95896712b849-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },{
+            "Name": "SPADES",
+            "GameUrl": "https://html5.gamedistribution.com/fc6b4e70a4ab447cb9a0769565ea36d7/",
+            "GameIconUrl": "https://img.gamedistribution.com/fc6b4e70a4ab447cb9a0769565ea36d7-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": false,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "SCRATCH & MATCH",
+            "GameUrl": "https://html5.gamedistribution.com/19fec13108fb45e0b742c1e2fb3947dc/",
+            "GameIconUrl": "https://img.gamedistribution.com/19fec13108fb45e0b742c1e2fb3947dc-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },{
+            "Name": "3 CARD MONTE",
+            "GameUrl": "https://html5.gamedistribution.com/8a5bb304923145a2aa0abf00d98e01c1/",
+            "GameIconUrl": "https://img.gamedistribution.com/8a5bb304923145a2aa0abf00d98e01c1-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },{
+            "Name": "EZ MAHJONG",
+            "GameUrl": "https://html5.gamedistribution.com/346ab87b93e645588ce55c9ee92d292a/",
+            "GameIconUrl": "https://img.gamedistribution.com/346ab87b93e645588ce55c9ee92d292a-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },{
+            "Name": "KIDS CUTE PAIRS",
+            "GameUrl": "https://html5.gamedistribution.com/360fe3123a754409990e1b565e88166c/",
+            "GameIconUrl": "https://img.gamedistribution.com/360fe3123a754409990e1b565e88166c-512x384.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "2048 CARDS",
+            "GameUrl": "https://html5.gamedistribution.com/823ae62e275a4b82a07a1d9d2272e7e4/",
+            "GameIconUrl": "https://img.gamedistribution.com/823ae62e275a4b82a07a1d9d2272e7e4-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": true,
+            "IsVip": true
+        },{
+            "Name": "SOLITAIRE",
+            "GameUrl": "https://html5.gamedistribution.com/75949162d21444759c9c788e7492c4a6/",
+            "GameIconUrl": "https://img.gamedistribution.com/75949162d21444759c9c788e7492c4a6-512x384.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "WILD WEST SLOT",
+            "GameUrl": "https://html5.gamedistribution.com/c51f9f44bce649ad93a5f572de83ee1a/",
+            "GameIconUrl": "https://img.gamedistribution.com/c51f9f44bce649ad93a5f572de83ee1a-512x384.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "BLACKJACK",
+            "GameUrl": "https://html5.gamedistribution.com/c1307d4373224897bff809b3677b99d4/",
+            "GameIconUrl": "https://img.gamedistribution.com/c1307d4373224897bff809b3677b99d4-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": true,
+            "IsVip": true
+        },{
+            "Name": "DOMINOES DELUXE",
+            "GameUrl": "https://html5.gamedistribution.com/afd8f50710944c81b2417ac2a3dea007/",
+            "GameIconUrl": "https://img.gamedistribution.com/afd8f50710944c81b2417ac2a3dea007-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "CRESCENT SOLITAIRE",
+            "GameUrl": "https://html5.gamedistribution.com/caa47708b29d47dcba322ddc951b3126/",
+            "GameIconUrl": "https://img.gamedistribution.com/caa47708b29d47dcba322ddc951b3126-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": true,
+            "IsVip": true
+        },{
+            "Name": "SOLITAIRE GRANDE",
+            "GameUrl": "https://html5.gamedistribution.com/19c053953c0a4963ba2cd6ab2be4a109/",
+            "GameIconUrl": "https://img.gamedistribution.com/19c053953c0a4963ba2cd6ab2be4a109-512x384.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },{
+            "Name": "THE BATTLE",
+            "GameUrl": "https://html5.gamedistribution.com/bf583943055249859564f58fcd53a00b/",
+            "GameIconUrl": "https://img.gamedistribution.com/bf583943055249859564f58fcd53a00b-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "TWENTY SOLITAIRE",
+            "GameUrl": "https://html5.gamedistribution.com/ab8c755a85044302a0ad0ad54b500b4b/",
+            "GameIconUrl": "https://img.gamedistribution.com/ab8c755a85044302a0ad0ad54b500b4b-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },{
+            "Name": "MAFIA POKER",
+            "GameUrl": "https://html5.gamedistribution.com/12ba7c31d87c4e819d132f4baedeedbf/",
+            "GameIconUrl": "https://img.gamedistribution.com/12ba7c31d87c4e819d132f4baedeedbf-512x384.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },{
+            "Name": "SPIDER SOLITAIRE",
+            "GameUrl": "https://html5.gamedistribution.com/65bdf96283f5431ebefb2d229864fb01/",
+            "GameIconUrl": "https://img.gamedistribution.com/65bdf96283f5431ebefb2d229864fb01-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },{
+            "Name": "SOLITAIRE KINGS",
+            "GameUrl": "https://html5.gamedistribution.com/aed74e5047de4699a7187438cf9e3eb8/",
+            "GameIconUrl": "https://img.gamedistribution.com/aed74e5047de4699a7187438cf9e3eb8-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },{
+            "Name": "MAZE MASTER",
+            "GameUrl": "http://html5.gamedistribution.com/ac05be2cb3e644cc8fa53e26202c9b7a/",
+            "GameIconUrl": "https://img.gamedistribution.com/ac05be2cb3e644cc8fa53e26202c9b7a.jpg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "CLASH OF VIKINGS",
+            "GameUrl": "https://html5.gamedistribution.com/7fb6eddc884e4a0380f40410134650a3/",
+            "GameIconUrl": "https://img.gamedistribution.com/7fb6eddc884e4a0380f40410134650a3-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": true,
+            "IsVip": true
+        },{
+            "Name": "FGP SOLITAIRE",
+            "GameUrl": "https://html5.gamedistribution.com/67fbae06de8a4cf68e773c5291953319/",
+            "GameIconUrl": "https://img.gamedistribution.com/67fbae06de8a4cf68e773c5291953319-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "GOLF SOLITAIRE",
+            "GameUrl": "https://html5.gamedistribution.com/5dd599b4bbb74e2b813373312dc1749a/",
+            "GameIconUrl": "https://img.gamedistribution.com/5dd599b4bbb74e2b813373312dc1749a-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },{
+            "Name": "GOLF SOLITAIRE",
+            "GameUrl": "https://html5.gamedistribution.com/3e3cd3db32d6416eb0fe475aebc39d99/",
+            "GameIconUrl": "https://img.gamedistribution.com/3e3cd3db32d6416eb0fe475aebc39d99.jpg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "KITTEN MATCH",
+            "GameUrl": "https://html5.gamedistribution.com/6bddb365787f40e58bff9e52f1adb30e/",
+            "GameIconUrl": "https://img.gamedistribution.com/6bddb365787f40e58bff9e52f1adb30e.jpg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "TRIPEAKS SOLITAIRE",
+            "GameUrl": "https://html5.gamedistribution.com/4fee381acb2d4443b2d37c9a8273bd88/",
+            "GameIconUrl": "https://img.gamedistribution.com/4fee381acb2d4443b2d37c9a8273bd88.jpg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "PYRAMID SOLITAIRE",
+            "GameUrl": "https://html5.gamedistribution.com/13a045dbde274bae92b2862133c16223/",
+            "GameIconUrl": "https://img.gamedistribution.com/13a045dbde274bae92b2862133c16223.jpg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },{
+            "Name": "POKER CHALLENGE",
+            "GameUrl": "https://html5.gamedistribution.com/2dae86bfcac842a3adf93ba9c1b6c67d/",
+            "GameIconUrl": "https://img.gamedistribution.com/2dae86bfcac842a3adf93ba9c1b6c67d.jpg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "BLACKJACK",
+            "GameUrl": "https://html5.gamedistribution.com/6c92804773b447f2aa4916ed6664513e/",
+            "GameIconUrl": "https://img.gamedistribution.com/6c92804773b447f2aa4916ed6664513e-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },{
+            "Name": "AMAZING KLONDIKE",
+            "GameUrl": "https://html5.gamedistribution.com/5eade0fe867a461aaabb71a87a2efc8a/",
+            "GameIconUrl": "https://img.gamedistribution.com/5eade0fe867a461aaabb71a87a2efc8a.jpg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "SOLITAIRE DELUXE",
+            "GameUrl": "https://html5.gamedistribution.com/cda8790ef3fa4c0a9b70737cd8f44c37/",
+            "GameIconUrl": "https://img.gamedistribution.com/cda8790ef3fa4c0a9b70737cd8f44c37-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        },{
+            "Name": "COLORS PGS",
+            "GameUrl": "https://html5.gamedistribution.com/57cfda84d84441579d789dad1319faef/",
+            "GameIconUrl": "https://img.gamedistribution.com/57cfda84d84441579d789dad1319faef.jpg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": true
+        }
+    ]
+}
