@@ -9,7 +9,7 @@
     "feedbackEmail": "[Your feedback mail]",
     "link": "[Your application store link]",
     "privacyURL": "",
-    "RobotTime": 50,
-    "GiftTime": 30,
+    "RobotTime": 2.46,
+    "GiftTime": 50,
     "FreeCoinsTime": 23
 }
