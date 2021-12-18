@@ -1,11 +1,11 @@
 {
     "UpdateURL": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/UpgradeData.json",
-    "AdsManagerURL": "",
+    "AdsManagerURL": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/HuaweiAdsDATA.json",
     "CatigoryDataURL": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/CatigoryData.json",
     "ContactDataJsonDataURL": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/AvatarsChatData.json",
     "MoreGameURL": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/MoreGameData.json",
     "OneSignalPushId": "ddb67439-7e36-4361-a899-c67352863ffd",
-    "MoreURL": "",
+    "MoreURL": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/MoreGame.json",
     "feedbackEmail": "[Your feedback mail]",
     "link": "[Your application store link]",
     "privacyURL": "",
