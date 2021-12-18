@@ -1,12 +1,12 @@
 
 {
 
- "Name" : "Sonic Call",
- "Description" : "sonic is waiting for you in a video call and chat come on!!",
+ "Name" : "Readcode",
+ "Description" : "New updates are available,  we added more cool Games, check it now",
  "Version" : "1.0.0",
  "Url" : "https://play.google.com/store/apps/details?id=com.soniiccall.apps",
  "ModeUpdateOnline":false,
- "UrlIcon":"http://194.163.154.196/apps2/kimberly/images/icon.png"
+ "UrlIcon":"https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Huawei%20Ads/HoGo.png"
 }
  
 
