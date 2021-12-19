@@ -6,5 +6,12 @@
     "appKey": "",
     "bannerAdUnit": "",
     "interstitialAdUnit": "",
-    "rewardedVideoAdUnit": ""
+    "rewardedVideoAdUnit": "",
+    "EnableOnerNative": 0,
+    "NativeAdsUrl": "",
+    "NativeImageUrl": "",
+    "NativeDescription": "",
+    "NativeTitle": "",
+    "NativeImageADS": {
+        "instanceID": 0
 }
