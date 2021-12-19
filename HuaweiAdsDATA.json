@@ -8,10 +8,10 @@
     "interstitialAdUnit": "",
     "rewardedVideoAdUnit": "",
     "EnableOnerNative": 0,
-    "NativeAdsUrl": "",
-    "NativeImageUrl": "",
-    "NativeDescription": "",
-    "NativeTitle": "",
+    "NativeAdsUrl": "https://appgallery.huawei.com/app/C105010921",
+    "NativeImageUrl": "https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GooglePlaye/Sudoku.png",
+    "NativeDescription": "Play the classic paper and pencil puzzle game right on your phone",
+    "NativeTitle": "sudoko LITE",
     "NativeImageADS": {
         "instanceID": 0
     }
