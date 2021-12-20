@@ -1,0 +1,283 @@
+{
+    "NomberMessageAftrShowAds": 5,
+    "CorantID": 0,
+    "GetNextQuestions": false,
+    "NoAnserFind": [],
+    "QData": [
+        {
+            "RobotQuestion": "hello my friend😀",
+            "ID": 0,
+            "MessageType": 0,
+            "Anser": [
+                {
+                    "UserMassage": "Hello",
+                    "RobotMassage": "welcome I'm very hapy to talk to you😍"
+                },
+                {
+                    "UserMassage": "Hi",
+                    "RobotMassage": "welcome I'm very hapy to talk to you😍 "
+                },
+                {
+                    "UserMassage": "Hi",
+                    "RobotMassage": "welcome I'm very hapy to talk to you😍"
+                },
+                {
+                    "UserMassage": "Hello i love you",
+                    "RobotMassage": "I love you too"
+                }
+            ]
+        },
+        {
+            "RobotQuestion": "how are you?",
+            "ID": 1,
+            "MessageType": 0,
+            "Anser": [
+                {
+                    "UserMassage": "i'm fine Thanks",
+                    "RobotMassage": "nice "
+                },
+                {
+                    "UserMassage": "i'm good Thanks",
+                    "RobotMassage": "nice "
+                },
+                {
+                    "UserMassage": "i'm happy to talk to you",
+                    "RobotMassage": "oh thank you me too"
+                },
+                {
+                    "UserMassage": "I'm sick",
+                    "RobotMassage": "😢 I wish you a speedy recovery and be well"
+                }
+            ]
+        },
+        {
+            "RobotQuestion": "how old are you",
+            "ID": 2,
+            "MessageType": 0,
+            "Anser": [
+                {
+                    "UserMassage": "i'm less than 15",
+                    "RobotMassage": "nice"
+                },
+                {
+                    "UserMassage": "i'm More than 15",
+                    "RobotMassage": "nice"
+                },
+                {
+                    "UserMassage": "i'm less than 20",
+                    "RobotMassage": "nice"
+                },
+                {
+                    "UserMassage": "i'm More than 20",
+                    "RobotMassage": "nice"
+                },
+                {
+                    "UserMassage": "i'm More than 30",
+                    "RobotMassage": "nice"
+                }
+            ]
+        },
+        {
+            "RobotQuestion": "you know who i'm?",
+            "ID": 3,
+            "MessageType": 0,
+            "Anser": [
+                {
+                    "UserMassage": "yes",
+                    "RobotMassage": "Bingo:)"
+                },
+                {
+                    "UserMassage": "you're Alan",
+                    "RobotMassage": "Bingo:)"
+                },
+                {
+                    "UserMassage": "No",
+                    "RobotMassage": "i am Alan"
+                },
+                {
+                    "UserMassage": "i don't know you",
+                    "RobotMassage": "i am Alan"
+                }
+            ]
+        },
+        {
+            "RobotQuestion": "Choose a question for me:)",
+            "ID": 4,
+            "MessageType": 0,
+            "Anser": [
+                {
+                    "UserMassage": "how old are you",
+                    "RobotMassage": "i'm 22"
+                },
+                {
+                    "UserMassage": "what kind of food do you like?",
+                    "RobotMassage": "i like almost everything,and my favorite is pizza"
+                },
+                {
+                    "UserMassage": "favorite cartoon?",
+                    "RobotMassage": "i like Spongebob"
+                },
+                {
+                    "UserMassage": "are you married?",
+                    "RobotMassage": "no i'm single"
+                },
+                {
+                    "UserMassage": "are you here everytime?",
+                    "RobotMassage": "yes i'm always with you"
+                }
+            ]
+        },
+        {
+            "RobotQuestion": "so i have a challenge for you,just give me the number for 9+6",
+            "ID": 5,
+            "MessageType": 0,
+            "Anser": [
+                {
+                    "UserMassage": "15",
+                    "RobotMassage": "great job "
+                },
+                {
+                    "UserMassage": "20",
+                    "RobotMassage": "oops that's wrong"
+                },
+                {
+                    "UserMassage": "I don't know",
+                    "RobotMassage": "Well let's go for another challenge"
+                }
+            ]
+        },
+        {
+            "RobotQuestion": "How many colors are in rainbows?",
+            "ID": 6,
+            "MessageType": 0,
+            "Anser": [
+                {
+                    "UserMassage": "7",
+                    "RobotMassage": "wow you're relly smart😀"
+                },
+                {
+                    "UserMassage": "10",
+                    "RobotMassage": "your answer is wrong "
+                },
+                {
+                    "UserMassage": "I don't know",
+                    "RobotMassage": "Well let's go for another challenge"
+                }
+            ]
+        },
+        {
+            "RobotQuestion": "ask me!!",
+            "ID": 7,
+            "MessageType": 0,
+            "Anser": [
+                {
+                    "UserMassage": "how many luanguages do you speak?",
+                    "RobotMassage": "i speak spanich and little english"
+                },
+                {
+                    "UserMassage": "What pet would you love to have?",
+                    "RobotMassage": "i love dogs"
+                },
+                {
+                    "UserMassage": "what do you like to do in your spare time?",
+                    "RobotMassage": "i like to sit with my family and have a chat "
+                }
+            ]
+        },
+        {
+            "RobotQuestion": "how many fingers do we have in our hands?",
+            "ID": 8,
+            "MessageType": 0,
+            "Anser": [
+                {
+                    "UserMassage": "5",
+                    "RobotMassage": "wrong answer"
+                },
+                {
+                    "UserMassage": "10",
+                    "RobotMassage": "that's correct"
+                },
+                {
+                    "UserMassage": "i don't know",
+                    "RobotMassage": "Well let's go for another challenge"
+                }
+            ]
+        },
+        {
+            "RobotQuestion": "can you tell me who's the king of jungle?",
+            "ID": 9,
+            "MessageType": 0,
+            "Anser": [
+                {
+                    "UserMassage": "Elephant",
+                    "RobotMassage": "wrong answer"
+                },
+                {
+                    "UserMassage": "Gorilla",
+                    "RobotMassage": "oops that's wrong"
+                },
+                {
+                    "UserMassage": "Lion",
+                    "RobotMassage": "brovo, well done"
+                }
+            ]
+        },
+        {
+            "RobotQuestion": "awesome can you tell me how much 2*4?",
+            "ID": 10,
+            "MessageType": 0,
+            "Anser": [
+                {
+                    "UserMassage": "6",
+                    "RobotMassage": "wrong answer"
+                },
+                {
+                    "UserMassage": "8",
+                    "RobotMassage": "that's correct"
+                },
+                {
+                    "UserMassage": "i'm not sure",
+                    "RobotMassage": "it's 8 but it's ok"
+                }
+            ]
+        },
+        {
+            "RobotQuestion": "ask me some questions!!",
+            "ID":10,
+            "MessageType": 0,
+            "Anser": [
+                {
+                    "UserMassage": "What would be your super power?",
+                    "RobotMassage": "i've always wanted to read minds"
+                },
+                {
+                    "UserMassage": "Do you sing in the shower?",
+                    "RobotMassage": "yes hahaha i think everybody does it"
+                },
+                {
+                    "UserMassage": "Who is your celebrity crush?",
+                    "RobotMassage": "i love me"
+                }
+            ]
+        },
+        {
+            "RobotQuestion": "now tell me the thing that makes you cry every time you peel it?",
+            "ID": 11,
+            "MessageType": 0,
+            "Anser": [
+                {
+                    "UserMassage": "fish",
+                    "RobotMassage": "wrong answer"
+                },
+                {
+                    "UserMassage": "apples",
+                    "RobotMassage": "that's correct"
+                },
+                {
+                    "UserMassage": "onion",
+                    "RobotMassage": "perfect :)can you call me now?"
+                }
+            ]
+        }
+    ]
+}
