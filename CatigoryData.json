@@ -185,6 +185,15 @@
             "IconUrl": "https://img.gamedistribution.com/dd1a9663953d4eb7820b9cfb7c104ecc-512x384.jpeg",
              "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/ColoringGames.json"
         }
-        
+        ,
+        {
+            "Titel": "Christmas games",
+            "Continer": "Check out the best amazing Christmas games!",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://img.gamedistribution.com/640a7b7ca099442e949f46fda07d9c91-512x512.jpeg",
+             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/Christmas.json"
+        }
     ]
 }
