@@ -1,8 +1,14 @@
 {
-    "Virtion": 3,
+    "Virtion": 4,
     "Data": [
         
         {
+            "Name": "Merry Christmas",
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Huawei%20Ads/unnamed.png",
+            "GameUrl": "",
+            "Stars": 4,
+            "IsGameInBrawser": false
+        },{
             "Name": "",
             "IconUrl": "https://img.gamedistribution.com/96bbaeb00cbe48f39e9aaf8ce5cbfa0e-512x340.jpeg",
             "GameUrl": "https://html5.gamedistribution.com/96bbaeb00cbe48f39e9aaf8ce5cbfa0e/",
