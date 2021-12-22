@@ -7,7 +7,7 @@
     "bannerAdUnit": "",
     "interstitialAdUnit": "",
     "rewardedVideoAdUnit": "",
-    "EnableOnerNative": 0,
+    "EnableOnerNative": 1,
     "NativeAdsUrl": "https://appgallery.huawei.com/app/C105010921",
     "NativeImageUrl": "https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GooglePlaye/Sudoku.png",
     "NativeDescription": "Play the classic paper and pencil puzzle game right on your phone",
