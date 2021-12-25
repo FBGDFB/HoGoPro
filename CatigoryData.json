@@ -1,5 +1,5 @@
 {
-    "Virtion": 5,
+    "Virtion": 6,
     "Data": [
         {
             "Titel": "Actions",
@@ -11,15 +11,6 @@
             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/ActionGameData.json"
         },
         {
-            "Titel": "Adventure",
-            "Continer": "More than 110 games",
-            "Icon": {
-                "instanceID": 0
-            },
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Adventure.png",
-             "GamesDataUrl": ""
-        },
-        {
             "Titel": "Arcade",
             "Continer": "More than 130 games",
             "Icon": {
@@ -28,15 +19,7 @@
             "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Arcade.png",
              "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/ArcadeGames.json"
         },
-        {
-            "Titel": "Board",
-            "Continer": "More than 120 games",
-            "Icon": {
-                "instanceID": 0
-            },
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Board.png",
-             "GamesDataUrl": ""
-        },
+        
         {
             "Titel": "Card",
             "Continer": "More than 220 games",
@@ -45,24 +28,6 @@
             },
             "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Card.png",
              "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/CardGames.json"
-        },
-        {
-            "Titel": "Casino",
-            "Continer": "More than 140 games",
-            "Icon": {
-                "instanceID": 0
-            },
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Casino.png",
-             "GamesDataUrl": ""
-        },
-        {
-            "Titel": "Casual",
-            "Continer": "More than 120 games",
-            "Icon": {
-                "instanceID": 0
-            },
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Casual.png",
-             "GamesDataUrl": ""
         },
         {
             "Titel": "Educational",
@@ -82,24 +47,7 @@
             "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Music.png",
              "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/MusicGames.json"
         },
-        {
-            "Titel": "Puzzle",
-            "Continer": "More than 110 games",
-            "Icon": {
-                "instanceID": 0
-            },
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Puzzle.png",
-             "GamesDataUrl": ""
-        },
-        {
-            "Titel": "Racing",
-            "Continer": "More than 520 games",
-            "Icon": {
-                "instanceID": 0
-            },
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Racing.png",
-             "GamesDataUrl": ""
-        },
+       
         {
             "Titel": "Simulation",
             "Continer": "More than 120 games",
