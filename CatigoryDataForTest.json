@@ -1,0 +1,65 @@
+{
+    "Virtion": 6,
+    "Data": [
+          
+        {
+            "Titel": "Word",
+            "Continer": "More than 120 games",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Word.png",
+             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/Test/WordGamesTest.json"
+        },
+        {
+            "Titel": "Love",
+            "Continer": "More than 120 games",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Love.png",
+             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/Test/LoveGamesTest.json"
+        }
+        ,
+        {
+            "Titel": "Cooking",
+            "Continer": "More than 123 Cooking games",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://img.gamemonetize.com/os4jgqpknerj3brurlqz0x6rg0ha13wx/512x512.jpg",
+             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/Test/CookingGamesTest.json"
+        }
+      
+         ,
+        {
+            "Titel": "Top Picks",
+            "Continer": "More than 43 Top Picks games",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://gamedistribution.com/images/featured/tp-logo.png",
+             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/Test/TopPicksGamesTest.json"
+        }
+        ,
+        {
+            "Titel": "Coloring",
+            "Continer": "More than 43 Coloring games",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://img.gamedistribution.com/dd1a9663953d4eb7820b9cfb7c104ecc-512x384.jpeg",
+             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/Test/ColoringGamesTest.json"
+        }
+        ,
+        {
+            "Titel": "Christmas games",
+            "Continer": "Check out the best amazing Christmas games!",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://img.gamedistribution.com/640a7b7ca099442e949f46fda07d9c91-512x512.jpeg",
+             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/Test/ChristmasTest.json"
+        }
+    ]
+}
