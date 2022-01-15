@@ -1,0 +1,52 @@
+{
+    "Data": [
+        {
+            "Name": "TRICKY TILES",
+            "GameUrl": "https://html5.gamedistribution.com/192a8a8df6a2413c8f26c77cfe3a90c8/",
+            "GameIconUrl": "https://img.gamedistribution.com/192a8a8df6a2413c8f26c77cfe3a90c8-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": true,
+            "IsVip": false
+        },
+        {
+            "Name": "CASTLE SAGA",
+            "GameUrl": "https://html5.gamedistribution.com/ab90fb200e70478e8e414c30e3f13d0b/",
+            "GameIconUrl": "https://img.gamedistribution.com/ab90fb200e70478e8e414c30e3f13d0b-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": true,
+            "IsVip": false
+        },
+        {
+            "Name": "KITTY PINBALL",
+            "GameUrl": "https://html5.gamedistribution.com/bcc8df13c93e44e5ad2f3d8abc88e552/",
+            "GameIconUrl": "https://img.gamedistribution.com/bcc8df13c93e44e5ad2f3d8abc88e552-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": true,
+            "IsVip": false
+        },
+        {
+            "Name": "ZUMBA MANIA",
+            "GameUrl": "https://html5.gamedistribution.com/1d9078d79d6c410d879f456d658d63fa/",
+            "GameIconUrl": "https://img.gamedistribution.com/1d9078d79d6c410d879f456d658d63fa-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        } 
+    ]
+}

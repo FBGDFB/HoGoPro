@@ -1,0 +1,50 @@
+{
+    "Data": [
+        {
+            "Name": "ARKADIUM'S CODEWORD",
+            "GameUrl": "https://html5.gamedistribution.com/63a0f26e46d44cf39789b6ea74d1fd99/",
+            "GameIconUrl": "https://img.gamedistribution.com/63a0f26e46d44cf39789b6ea74d1fd99-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },
+        {
+            "Name": "DINGBATS",
+            "GameUrl": "https://html5.gamedistribution.com/3a97ddbbe9e044a0a69ea50c70ea7e82/",
+            "GameIconUrl": "https://img.gamedistribution.com/3a97ddbbe9e044a0a69ea50c70ea7e82-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "CIRCUS WORDS",
+            "GameUrl": "https://html5.gamedistribution.com/bbbcbc5c5b53473f9bcabe802b2f5296/",
+            "GameIconUrl": "https://img.gamedistribution.com/bbbcbc5c5b53473f9bcabe802b2f5296-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },{
+            "Name": "HANGMAN",
+            "GameUrl": "https://html5.gamedistribution.com/9e35c46b6ef34cdea5ef8442df6b8cbb/",
+            "GameIconUrl": "https://img.gamedistribution.com/9e35c46b6ef34cdea5ef8442df6b8cbb-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": true,
+            "IsVip": false
+        } 
+    ]
+}

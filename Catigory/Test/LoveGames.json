@@ -1,0 +1,54 @@
+{
+    "Data": [
+        {
+            "Name": "LOVE TESTER",
+            "GameUrl": "https://html5.gamedistribution.com/8465971e63804850ab4421c322d88d1e/",
+            "GameIconUrl": "https://img.gamedistribution.com/8465971e63804850ab4421c322d88d1e-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },
+        {
+            "Name": "LOVE TESTER DELUXE",
+            "GameUrl": "https://html5.gamedistribution.com/06e6811e11874f29af8532bce203b627/",
+            "GameIconUrl": "https://img.gamedistribution.com/06e6811e11874f29af8532bce203b627-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        },
+        {
+            "Name": "LOVE PIN",
+            "GameUrl": "https://html5.gamedistribution.com/ef649681f5db4a3389b6a9c3ee527a63/",
+            "GameIconUrl": "https://img.gamedistribution.com/ef649681f5db4a3389b6a9c3ee527a63-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": true,
+            "IsVip": false
+        },
+        {
+            "Name": "RING OF LOVE",
+            "GameUrl": "https://html5.gamedistribution.com/7f85349bc5ca466dba86d1259e549176/",
+            "GameIconUrl": "https://img.gamedistribution.com/7f85349bc5ca466dba86d1259e549176-512x512.jpeg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        }
+         
+         
+    ]
+}

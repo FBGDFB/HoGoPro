@@ -1,0 +1,56 @@
+{
+    "Data": [
+        {
+            "Name": "Cook Up Game",
+            "GameUrl": "https://html5.gamemonetize.com/os4jgqpknerj3brurlqz0x6rg0ha13wx/",
+            "GameIconUrl": "https://img.gamemonetize.com/os4jgqpknerj3brurlqz0x6rg0ha13wx/512x512.jpg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 4,
+            "IsBEST": true,
+            "IsNew": true,
+            "IsVip": false
+        }, 
+        {
+            "Name": "Cooking Sizzle",
+            "GameUrl": "https://html5.gamemonetize.com/kos7zbl2lxrq2m4rgep59nw2tc06kqv5/",
+            "GameIconUrl": "https://img.gamemonetize.com/kos7zbl2lxrq2m4rgep59nw2tc06kqv5/512x512.jpg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": true,
+            "IsNew": false,
+            "IsVip": false
+        }
+        , 
+        {
+            "Name": "SUSHI CHEF",
+            "GameUrl": "https://html5.gamemonetize.com/p0elhs3sbhslkpqz6xi8hxtcpue7tm3n/",
+            "GameIconUrl": "https://img.gamemonetize.com/p0elhs3sbhslkpqz6xi8hxtcpue7tm3n/512x512.jpg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": false,
+            "IsNew": false,
+            "IsVip": false
+        }
+        , 
+        {
+            "Name": "Burger Chef Tycoon",
+            "GameUrl": "https://html5.gamemonetize.com/bt951z635di1cwdxul6a2djuuk2zu2mg/",
+            "GameIconUrl": "https://img.gamemonetize.com/bt951z635di1cwdxul6a2djuuk2zu2mg/512x512.jpg",
+            "Icon": {
+                "instanceID": 0
+            },
+            "Stars": 3,
+            "IsBEST": false,
+            "IsNew": false,
+            "IsVip": false
+        }
+         
+       
+    ]
+}
