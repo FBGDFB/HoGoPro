@@ -1,5 +1,5 @@
 {
-    "Virtion": 6,
+    "Virtion": 7,
     "Data": [
           
         {
@@ -18,7 +18,7 @@
                 "instanceID": 0
             },
             "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Love.png",
-             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/Test/LoveGamesTest.json"
+             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/Test/LoveGames.json"
         }
         ,
         {
@@ -28,7 +28,7 @@
                 "instanceID": 0
             },
             "IconUrl": "https://img.gamemonetize.com/os4jgqpknerj3brurlqz0x6rg0ha13wx/512x512.jpg",
-             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/Test/CookingGamesTest.json"
+             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/Test/CookingGames.json"
         }
       
          ,
@@ -39,7 +39,7 @@
                 "instanceID": 0
             },
             "IconUrl": "https://gamedistribution.com/images/featured/tp-logo.png",
-             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/Test/TopPicksGamesTest.json"
+             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/Test/TopPicksGames.json"
         }
         ,
         {
@@ -49,7 +49,7 @@
                 "instanceID": 0
             },
             "IconUrl": "https://img.gamedistribution.com/dd1a9663953d4eb7820b9cfb7c104ecc-512x384.jpeg",
-             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/Test/ColoringGamesTest.json"
+             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/Test/ColoringGames.json"
         }
         ,
         {
@@ -59,7 +59,7 @@
                 "instanceID": 0
             },
             "IconUrl": "https://img.gamedistribution.com/640a7b7ca099442e949f46fda07d9c91-512x512.jpeg",
-             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/Test/ChristmasTest.json"
+             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/Test/Christmas.json"
         }
     ]
 }
