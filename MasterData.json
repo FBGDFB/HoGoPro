@@ -1,4 +1,7 @@
 {
+    "TestMode":true,
+    "TestGameIconUrl":"https://img.gamedistribution.com/ecc0e47c0f8042dd98636bd7288ae9e8-512x384.jpeg",
+    "TestGameUrl":"https://html5.gamedistribution.com/ecc0e47c0f8042dd98636bd7288ae9e8/",
     "UpdateURL": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/UpgradeData.json",
     "AdsManagerURL": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/HuaweiAdsDATA.json",
     "CatigoryDataURL": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/CatigoryDataForTest.json",
