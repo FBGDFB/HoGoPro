@@ -1,7 +1,7 @@
 {
     "TestMode":true,
-    "TestGameIconUrl":"https://img.gamemonetize.com/53qxe0y85r6w0kiq8rs0ef3w7e7jweud/512x384.jpg",
-    "TestGameUrl":"https://html5.gamemonetize.co/53qxe0y85r6w0kiq8rs0ef3w7e7jweud/",
+    "TestGameIconUrl":"https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Huawei%20Ads/unnamed.png",
+    "TestGameUrl":"https://html5.gamemonetize.co/0670oopdtfh2pbmei4t6mxt43j1foxuc/",
     "UpdateURL": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/UpgradeData.json",
     "AdsManagerURL": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/HuaweiAdsDATA.json",
     "CatigoryDataURL": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/CatigoryDataForTest.json",
