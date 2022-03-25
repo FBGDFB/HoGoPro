@@ -1,10 +1,10 @@
 {
-    "TestMode":true,
+    "TestMode":false,
     "TestGameIconUrl":"https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Huawei%20Ads/game.png",
     "TestGameUrl":"https://html5.gamemonetize.co/0670oopdtfh2pbmei4t6mxt43j1foxuc/",
     "UpdateURL": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/UpgradeData.json",
     "AdsManagerURL": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/HuaweiAdsDATA.json",
-    "CatigoryDataURL": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/CatigoryDataForTest.json",
+    "CatigoryDataURL": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/CatigoryData.json",
     "ContactDataJsonDataURL": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/AvatarsChatData.json",
     "MoreGameURL": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/MoreGameData.json",
     "OneSignalPushId": "ddb67439-7e36-4361-a899-c67352863ffd",
