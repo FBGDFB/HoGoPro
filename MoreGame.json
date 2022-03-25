@@ -1,4 +1,21 @@
-[
+[{
+       "Name":"Poppy Fake Call",
+       "Description":"it's Playtime with your friends with this Fake video call with HOGGY Wuggy ",
+       "IconUrl":"https://appimg2.dbankcdn.com/application/icon144/65/60990c74a932437fbd6ab2cf74f0dca8.png",
+       "GameUrl":"https://appgallery.huawei.com/app/C105390661"
+   },
+   {
+       "Name":"Rock Paper Scissor",
+       "Description":"Challenge your opponent for the epic rock paper scissors fight!",
+       "IconUrl":"https://appimg2.dbankcdn.com/application/icon144/65/f70a161c526d4f428e053538873325bb.png",
+       "GameUrl":"https://appgallery.huawei.com/app/C105590759"
+   },
+  {
+       "Name":"Squid Game ",
+       "Description":"So what are you waiting for; download Squid Game and challenge yourself?",
+       "IconUrl":"https://appimg2.dbankcdn.com/application/icon144/65/e4c32afcfc6c4bf7afcce6db7510c7f1.png",
+       "GameUrl":"https://appgallery.cloud.huawei.com/gs/n/app/C105107245?locale=en_US&source=appshare&subsource=C105107245&shareTo=org.telegram.messenger&shareFrom=gamebox"
+   },
   {
        "Name":"Sudoku Master",
        "Description":"Classic Sudoku the puzzle game for your brain, logical thinking, memory",
@@ -17,11 +34,30 @@
        "Description":"This new makeover game offers a stunning, 400+ items stong",
        "IconUrl":"https://appimg2.dbankcdn.com/application/icon144/65/53a9d0f9b6c144769bd945f634a62cec.png",
        "GameUrl":"https://appgallery.huawei.com/app/C105091211"
-   },{
-       "Name":"Rock Paper Scissor",
-       "Description":"Challenge your opponent for the epic rock paper scissors fight!",
-       "IconUrl":"https://appimg2.dbankcdn.com/application/icon144/65/f70a161c526d4f428e053538873325bb.png",
-       "GameUrl":"https://appgallery.huawei.com/app/C105590759"
+   },
+  {
+       "Name":"coloring book Kids",
+       "Description":"The best app for coloring book therapy is now on your Android phone!",
+       "IconUrl":"https://appimg2.dbankcdn.com/application/icon144/65/dac8fc01dcbb46e0b6307d4846f74226.png",
+       "GameUrl":"https://appgallery.huawei.com/app/C105266641"
+   },
+  {
+       "Name":"卢多 :ludo",
+       "Description":"Ludo is board game played between friends and family. Ludo dice game!!",
+       "IconUrl":"https://appimg2.dbankcdn.com/application/icon144/65/0d2f2d83fe2c49eebfb197603729008e.png",
+       "GameUrl":"https://appgallery.huawei.com/app/C105266641"
+   }
+   ,{
+       "Name":"Magical Unicorn  ",
+       "Description":"Magical Unicorn Fantasy Run 3D has been carefully designed for Players to have?",
+       "IconUrl":"https://appimg2.dbankcdn.com/application/icon144/65/20fec92d13a74d0fb9a4c2e1ed9729b6.png",
+       "GameUrl":"https://appgallery.huawei.com/app/C105594581"
+   }
+  ,{
+       "Name":"Scary Teachers",
+       "Description":"In this app, you will receive a prank call from your favorite Teacher",
+       "IconUrl":"https://appimg2.dbankcdn.com/application/icon144/65/c3c97f611a344f0e8f2cc2ea1cc0ba25.png",
+       "GameUrl":"https://appgallery.huawei.com/app/C105122959"
    }
 ]
 
