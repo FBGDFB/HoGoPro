@@ -1,13 +1,19 @@
 {
-    "Virtion": 5,
+    "Virtion": 6,
     "Data": [
         
         {
             "Name": "",
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Huawei%20Ads/unnamed.png",
-            "GameUrl": "",
+            "IconUrl": "https://img.gamemonetize.com/nq4abl3ce9078gkwd3a9nf6ra1bv7fxu/512x384.jpg",
+            "GameUrl": "https://html5.gamemonetize.co/nq4abl3ce9078gkwd3a9nf6ra1bv7fxu/",
+            "Stars": 5,
+            "IsGameInBrawser": true
+        } ,{
+            "Name": "",
+            "IconUrl": "https://img.gamemonetize.com/6yh75o9gyonhyxeb7hl34n5q4pyz61fd/512x384.jpg",
+            "GameUrl": "https://html5.gamemonetize.co/6yh75o9gyonhyxeb7hl34n5q4pyz61fd/",
             "Stars": 4,
-            "IsGameInBrawser": false
+            "IsGameInBrawser": true
         } 
  
     ]
