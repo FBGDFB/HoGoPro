@@ -1,5 +1,5 @@
 {
-    "Virtion": 6,
+    "Virtion": 7,
     "Data": [
         
         {
@@ -14,7 +14,12 @@
             "GameUrl": "https://html5.gamemonetize.co/6yh75o9gyonhyxeb7hl34n5q4pyz61fd/",
             "Stars": 4,
             "IsGameInBrawser": true
-        } 
+        } ,{
+            "Name": "",
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/Kalimat/ads/kalimat.jpg",
+            "GameUrl": "https://appgallery.huawei.com/app/C106332763",
+            "Stars": 5
+        }
  
     ]
 }
