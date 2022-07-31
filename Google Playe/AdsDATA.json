@@ -7,8 +7,8 @@
     "ShowRewordAsAds": false,
     "Subject": "Hogo",
     "Dialog": "All Games Collection More Than 3000+ Online Games In One App ! Try Ti Now :",
-    "SharUrl": "www.test.com",
-    "EnableOnerAds": 0,
+    "SharUrl": "",
+    "EnableOnerAds": 1,
     "AdsUrl": "https://appgallery.huawei.com/app/C105039399",
     "ImageUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/CouplesDressUp/SortCandyBobbles.jpg",
     "Description": "From  the legendary Dreaming Boy comes Sort Candy Bobbles Saga! Unique candies, more divine matching combinations and challenging game ",
@@ -16,7 +16,7 @@
     "ImageADS": {
         "instanceID": 0
     },
-    "EnableOnerNative": 0,
+    "EnableOnerNative": 1,
     "NativeAdsUrl": "https://appgallery.huawei.com/app/C105039399",
     "NativeImageUrl": "https://appimg2.dbankcdn.com/application/icon144/65/4affb7c1f621478b8b3eae846efb340a.png",
     "NativeDescription": "Play the sweetest puzzle game! Sorted candies,Start sorting now!",
