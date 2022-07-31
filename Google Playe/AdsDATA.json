@@ -1,0 +1,29 @@
+{
+    "Virtion": "1.0.0",
+    "OfferWellappKey": "",
+    "EnableOfferWell": 1,
+    "EnableAdsTestMode": 1,
+    "ShowBanner": false,
+    "ShowRewordAsAds": false,
+    "Subject": "",
+    "Dialog": "",
+    "SharUrl": "",
+
+    "EnableOnerAds": 1,
+    "AdsUrl": "",
+    "ImageUrl": "",
+    "Description": "",
+    "Title": "",
+    "ImageADS": {
+        "instanceID": 
+    },
+
+    "EnableOnerNative": 1,
+    "NativeAdsUrl": "https://appgallery.huawei.com/app/C105010921",
+    "NativeImageUrl": "https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GooglePlaye/Sudoku.png",
+    "NativeDescription": "Play the classic paper and pencil puzzle game right on your phone",
+    "NativeTitle": "sudoko LITE",
+    "NativeImageADS": {
+        "instanceID": 
+    }
+}
