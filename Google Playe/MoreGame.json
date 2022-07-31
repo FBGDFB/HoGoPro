@@ -1,39 +1,20 @@
-[{
-       "Name":"Poppy Fake Call",
-       "Description":"it's Playtime with your friends with this Fake video call with HOGGY Wuggy ",
-       "IconUrl":"https://appimg2.dbankcdn.com/application/icon144/65/60990c74a932437fbd6ab2cf74f0dca8.png",
-       "GameUrl":"https://appgallery.huawei.com/app/C105390661"
+[
+  {
+       "Name":"Island Wars",
+       "Description":"Welcome to Island Wars : Commander, the Dark Legion is coming!",
+       "IconUrl":"https://appimg2.dbankcdn.com/application/icon144/1082/e4513235efc2480f944f731b9656af84.png",
+       "GameUrl":"https://play.google.com/store/apps/details?id=com.DreamingBoy.islandwars"
    },
    {
-       "Name":"Tennis Clash",
-       "Description":"Fan of sports video games?? Then here is a great tennis experience on mobile!",
-       "IconUrl":"https://appimg2.dbankcdn.com/application/icon144/65/ddc43a565d77485c970e1b652aca061d.png",
-       "GameUrl":"https://appgallery.huawei.com/app/C105807947"
+       "Name":"merge master",
+       "Description":"Still looking for a dinosaur game? Why don't you download Merge Master Dinosaur",
+       "IconUrl":"https://appimg2.dbankcdn.com/application/icon144/1082/c173b16a1ff64f94aaf52b31faf2fb6c.png",
+       "GameUrl":"https://play.google.com/store/apps/details?id=com.dreamingboy.mergemaster"
    },
-  {
-       "Name":"Alien coloring",
-       "Description":"Ben Coloring Ultimate Hero. Earth Protector With Coloring book, boys and girls",
-       "IconUrl":"https://appimg2.dbankcdn.com/application/icon144/65/62b9527d33ab4922ac4bfa24ac8e8b56.png",
-       "GameUrl":"https://appgallery.huawei.com/app/C106536405"
-   },
-  {
-       "Name":"Squid Game ",
-       "Description":"So what are you waiting for; download Squid Game and challenge yourself?",
-       "IconUrl":"https://appimg2.dbankcdn.com/application/icon144/65/e4c32afcfc6c4bf7afcce6db7510c7f1.png",
-       "GameUrl":"https://appgallery.cloud.huawei.com/gs/n/app/C105107245?locale=en_US&source=appshare&subsource=C105107245&shareTo=org.telegram.messenger&shareFrom=gamebox"
-   }
-   
-   ,{
-       "Name":"Magical Unicorn  ",
-       "Description":"Magical Unicorn Fantasy Run 3D has been carefully designed for Players to have?",
-       "IconUrl":"https://appimg2.dbankcdn.com/application/icon144/65/20fec92d13a74d0fb9a4c2e1ed9729b6.png",
-       "GameUrl":"https://appgallery.huawei.com/app/C105594581"
-   }
-  ,{
-       "Name":"crazy Football Kicks",
-       "Description":"You’ve never played a football game like this before;",
-       "IconUrl":"https://appimg2.dbankcdn.com/application/icon144/65/23f9f61982c045d2873293571161efa8.png",
-       "GameUrl":"https://appgallery.huawei.com/app/C105742617"
-   }
+   {
+       "Name":"Scary Teacher Video Call",
+       "Description":"Now you can easily receive phone calls and video calls from the scary teacher",
+       "IconUrl":"https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/Ads/ScaryTeasher.png",
+       "GameUrl":"https://play.google.com/store/apps/details?id=com.yazengame.scaryteachers.video.prank"
+   } 
 ]
-
