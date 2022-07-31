@@ -1,29 +1,27 @@
 {
-    "Virtion": "1.0.0",
+   "Virtion": "v 1.0.0",
     "OfferWellappKey": "",
     "EnableOfferWell": 1,
     "EnableAdsTestMode": 1,
     "ShowBanner": false,
     "ShowRewordAsAds": false,
-    "Subject": "Hogo Pro",
-    "Dialog": "All In One Game . In This App You Can Play More Than 5000 Games.",
-    "SharUrl": "https://TEST.COM",
-    
+    "Subject": "Hogo",
+    "Dialog": "this is dialog",
+    "SharUrl": "www.test.com",
     "EnableOnerAds": 1,
     "AdsUrl": "",
     "ImageUrl": "",
     "Description": "",
     "Title": "",
     "ImageADS": {
-        "instanceID": 
+        "instanceID": 0
     },
-
     "EnableOnerNative": 1,
-    "NativeAdsUrl": "https://appgallery.huawei.com/app/C105010921",
-    "NativeImageUrl": "https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GooglePlaye/Sudoku.png",
-    "NativeDescription": "Play the classic paper and pencil puzzle game right on your phone",
-    "NativeTitle": "sudoko LITE",
+    "NativeAdsUrl": "",
+    "NativeImageUrl": "",
+    "NativeDescription": "",
+    "NativeTitle": "",
     "NativeImageADS": {
-        "instanceID": 
+        "instanceID": 0
     }
 }
