@@ -1,0 +1,130 @@
+{
+    "Virtion": 6,
+    "Data": [
+        {
+            "Titel": "Actions",
+            "Continer": "More than 120 games",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Action.png",
+            "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/ActionGameData.json"
+        },
+        {
+            "Titel": "Arcade",
+            "Continer": "More than 130 games",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Arcade.png",
+             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/ArcadeGames.json"
+        },
+        
+        
+        {
+            "Titel": "Educational",
+            "Continer": "More than 120 games",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Educational.png",
+             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/EducationalGame.json"
+        },
+        {
+            "Titel": "Music",
+            "Continer": "More than 420 games",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Music.png",
+             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/MusicGames.json"
+        },
+       
+        {
+            "Titel": "Simulation",
+            "Continer": "More than 120 games",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Simulation.png",
+             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/SimulationGames.json"
+        },
+        {
+            "Titel": "Sports",
+            "Continer": "More than 780 games",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Sports.png",
+             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/SportsGames.json"
+        },
+        {
+            "Titel": "Strategy",
+            "Continer": "More than 340 games",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Strategy.png",
+             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/StrategyGames.json"
+        },
+        {
+            "Titel": "Word",
+            "Continer": "More than 120 games",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/Catigory/Word.png",
+             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/WordGames.json"
+        },
+         
+        {
+            "Titel": "Cooking",
+            "Continer": "More than 123 Cooking games",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://img.gamemonetize.com/os4jgqpknerj3brurlqz0x6rg0ha13wx/512x512.jpg",
+             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/CookingGames.json"
+        }
+         ,
+        {
+            "Titel": "Zombies",
+            "Continer": "More than 43 Zombies games",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://img.gamemonetize.com/zsihrh51ux1aahka9t4u5nciouwn5nut/512x512.jpg",
+             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/ZombeGame.json"
+        }
+         ,
+        {
+            "Titel": "Top Picks",
+            "Continer": "More than 43 Top Picks games",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://gamedistribution.com/images/featured/tp-logo.png",
+             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/TopPicksGames.json"
+        }
+        ,
+        {
+            "Titel": "Coloring",
+            "Continer": "More than 43 Coloring games",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://img.gamedistribution.com/dd1a9663953d4eb7820b9cfb7c104ecc-512x384.jpeg",
+             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/ColoringGames.json"
+        }
+        ,
+        {
+            "Titel": "Christmas games",
+            "Continer": "Check out the best amazing Christmas games!",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://img.gamedistribution.com/640a7b7ca099442e949f46fda07d9c91-512x512.jpeg",
+             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/Christmas.json"
+        }
+    ]
+}
