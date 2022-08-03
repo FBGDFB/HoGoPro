@@ -10,9 +10,9 @@
     "OneSignalPushId": "cf312f33-0897-45ab-bd75-e8de0b77d116",
     "MoreURL": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Google%20Playe/MoreGame.json",
     "feedbackEmail": "mailto:bouhaili.24@gmail.com",
-    "link": " ",
+    "link": "https://play.google.com/store/apps/details?id=com.DreamingBoy.Hogo",
     "privacyURL": "https://sites.google.com/view/hogopro/home",
     "RobotTime": 4,
-    "GiftTime": 5,
-    "FreeCoinsTime": 25
+    "GiftTime": 9,
+    "FreeCoinsTime": 2
 }
