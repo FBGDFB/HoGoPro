@@ -1,6 +1,4 @@
 [
-   
-    
    {
        "Name":"Merge Scary Monster",
        "Description":"Welcome to Merge Scary Monster : The NEW BEST FREE game!!",
@@ -13,7 +11,6 @@
        "IconUrl":"https://appimg2.dbankcdn.com/application/icon144/1082/e4513235efc2480f944f731b9656af84.png",
        "GameUrl":"https://play.google.com/store/apps/details?id=com.DreamingBoy.islandwars"
    },
-   
    {
        "Name":"merge master",
        "Description":"Still looking for a dinosaur game? Why don't you download Merge Master Dinosaur",
@@ -28,7 +25,7 @@
    },
   {
        "Name":"Poppy Money",
-       "Description":"This game is far beyond an ordinary poor or rich run race. Earn money.",
+       "Description":"This game is far beyond an ordinary poor or rich run race. Earn money",
        "IconUrl":"https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GameAds/ordinary.jpg",
        "GameUrl":"https://play.google.com/store/apps/details?id=com.GamePlay.PopiMoneyPlaytime"
    }
