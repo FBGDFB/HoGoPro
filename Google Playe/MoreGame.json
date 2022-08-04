@@ -1,10 +1,19 @@
 [
+   
+    
+   {
+       "Name":"Merge Scary Monster",
+       "Description":"Welcome to Merge Scary Monster : The NEW BEST FREE game!!",
+       "IconUrl":"https://raw.githubusercontent.com/FBGDFB/huawei/main/Merge%20Scary%20Monster/ADS/marge%20scary%20monster.jpg",
+       "GameUrl":"https://play.google.com/store/apps/details?id=com.DreamingBoy.MergeScaryMonster"
+   },
   {
        "Name":"Island Wars",
        "Description":"Welcome to Island Wars : Commander, the Dark Legion is coming!",
        "IconUrl":"https://appimg2.dbankcdn.com/application/icon144/1082/e4513235efc2480f944f731b9656af84.png",
        "GameUrl":"https://play.google.com/store/apps/details?id=com.DreamingBoy.islandwars"
    },
+   
    {
        "Name":"merge master",
        "Description":"Still looking for a dinosaur game? Why don't you download Merge Master Dinosaur",
@@ -16,5 +25,11 @@
        "Description":"Now you can easily receive phone calls and video calls from the scary teacher",
        "IconUrl":"https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/Ads/ScaryTeasher.png",
        "GameUrl":"https://play.google.com/store/apps/details?id=com.yazengame.scaryteachers.video.prank"
-   } 
+   },
+  {
+       "Name":"Poppy Money",
+       "Description":"This game is far beyond an ordinary poor or rich run race. Earn money.",
+       "IconUrl":"https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GameAds/ordinary.jpg",
+       "GameUrl":"https://play.google.com/store/apps/details?id=com.GamePlay.PopiMoneyPlaytime"
+   }
 ]
