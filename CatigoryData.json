@@ -1,6 +1,16 @@
 {
-    "Virtion": 6,
+    "Virtion": 7,
     "Data": [
+        {
+            "Titel": "New Games",
+            "Continer": "More than 20 Top Picks games",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Huawei%20Ads/new-logo.png",
+             "GamesDataUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Catigory/NewGameData.json"
+        }
+        ,
         {
             "Titel": "Actions",
             "Continer": "More than 120 games",
