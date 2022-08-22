@@ -22,11 +22,5 @@
        "Description":"Now you can easily receive phone calls and video calls from the scary teacher",
        "IconUrl":"https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/Ads/ScaryTeasher.png",
        "GameUrl":"https://play.google.com/store/apps/details?id=com.yazengame.scaryteachers.video.prank"
-   },
-  {
-       "Name":"Poppy Money",
-       "Description":"This game is far beyond an ordinary poor or rich run race. Earn money",
-       "IconUrl":"https://raw.githubusercontent.com/FBGDFB/Squid-Game-All-In-One/main/GameAds/ordinary.jpg",
-       "GameUrl":"https://play.google.com/store/apps/details?id=com.GamePlay.PopiMoneyPlaytime"
-   }
+   } 
 ]
